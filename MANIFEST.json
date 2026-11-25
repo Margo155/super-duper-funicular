@@ -1,0 +1,62 @@
+[
+  {
+    "path": "AGENTS.md",
+    "bytes": 2009,
+    "sha256": "0b9a6f070face15801bef968ea30ecec890adf918a1c81e0879ff1a2fe11406b"
+  },
+  {
+    "path": "EPISODE_001_SCRIPT.md",
+    "bytes": 2240,
+    "sha256": "ad78627ddbbce45a0540676156a20dc2d635e9b7537aa2cf8e803a0955ee2891"
+  },
+  {
+    "path": "FACTS_AND_SOURCES.md",
+    "bytes": 2710,
+    "sha256": "635e92a728ee46c7d323f4ccb516d086eb67c4f11e6d9158275511717e0e575d"
+  },
+  {
+    "path": "PACKAGE_VALIDATION.json",
+    "bytes": 463,
+    "sha256": "7ac423be62d551a754da09ce53976a57c281a6e8e9a0be680a4bec240a3b7845"
+  },
+  {
+    "path": "PROJECT_BRIEF.md",
+    "bytes": 5627,
+    "sha256": "84ba69ef42709b63fb73dcc70a0fcdf8467c2a227b87ba2202a2228f831d62cc"
+  },
+  {
+    "path": "PROMPT_FOR_CODEX.txt",
+    "bytes": 3336,
+    "sha256": "7442233dbb94e3aa88f8d0e25e60558a3812bccd910a5c281b09dc131ee27284"
+  },
+  {
+    "path": "README_RU.md",
+    "bytes": 5150,
+    "sha256": "d0e0a68a346d36e8c6643be4965c25485e93da16f2185d7bfc3de9ffa49784dd"
+  },
+  {
+    "path": "STYLE_BIBLE.md",
+    "bytes": 62846,
+    "sha256": "0f5556c40150474e10de598f45efc6773a71def9218f544127f2074f20c8ba88"
+  },
+  {
+    "path": "TEST_15S_STORYBOARD.md",
+    "bytes": 3064,
+    "sha256": "c8ae3554dc8920cd5438d2a2e8f8494cee8f8dba780fa49713cbab2e783fb0f2"
+  },
+  {
+    "path": "assets/hero_reference.png",
+    "bytes": 1326863,
+    "sha256": "78bda2ca844070a537e664fd892054ef419b04de71b8be3fc25240c69be0641a"
+  },
+  {
+    "path": "audio/TEST_15S_VOICEOVER.txt",
+    "bytes": 269,
+    "sha256": "3824963adc0ba39a06c121a54775971c11a1b2187c5430b0f5109e2c423d7ad8"
+  },
+  {
+    "path": "subtitles/TEST_15S_DRAFT.srt",
+    "bytes": 868,
+    "sha256": "f9aa1fc059d9531dd5d03ac7b725f9bc9ad962419aa4971eca9d16b159a386a2"
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "status": "PASS",
+  "test_spoken_words": 47,
+  "full_spoken_words": 195,
+  "test_is_exact_prefix_of_full_script": true,
+  "draft_caption_words_match_voiceover": true,
+  "caption_blocks": 18,
+  "all_caption_times_within_15s": true,
+  "hero_sha256": "78bda2ca844070a537e664fd892054ef419b04de71b8be3fc25240c69be0641a",
+  "rendered_video_included": false,
+  "recorded_voice_included": false,
+  "target_duration_s": 15,
+  "target_fps": 30,
+  "target_frames": 450
+}
