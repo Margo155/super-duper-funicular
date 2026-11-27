@@ -1,64 +1,60 @@
-# Oddplot — Episode 002
+# Oddplot Long 001 — The City They Had to Lift
 
-## Result and scope
+## Что производим
 
-Russian subject: **Монетка, которая ускоряет огромные часы**.
-Working English title: **A Penny Makes This Giant Clock Run Faster**.
-Produce the complete English-language Short. The episode 001 V3 technical test was accepted as the continuity reference; a fourth test of that old episode is not requested.
+Полный горизонтальный мультфильм **«Город, который пришлось поднять»**. Английский рабочий заголовок: **The City They Had to Lift**.
 
-Master format: 1080x1920, square pixels, progressive, 30 fps, H.264 MP4 with AAC audio. Nominal storyboard: 54.00 seconds / 1620 frames. The measured text has 153 spoken words: at a PLANNED 195 words/minute plus six seconds of visual pauses, the estimate is 53.08 seconds. This is not a recorded performance. Match the final cut to actual voice; 50–60 seconds is acceptable. All final times must fall on the 30 fps frame grid.
+Формат: **1920×1080, 16:9, 30 fps, ровно 10:00.000 — 18 000 кадров**. H.264 MP4, yuv420p, квадратные пиксели, AAC-звук. Весь фильм, включая первую и последнюю паузы, помещается в 600 секунд; заставку сверх этого времени не добавлять.
 
-## Continuity and appearance
+Сценарий: 20 сцен и 60 планов. Чистая английская озвучка — 1310 слов. Расчёт при 150 словах/мин даёт 524 секунды речи; остаётся 76 секунд на действия, смену внимания и звуковые акценты. Это монтажная модель, а не уже записанный голос. Сначала записать реальную речь, затем уточнить распределение 600 секунд. Границы отдельных сцен можно двигать, сохраняя все слова и сюжетные действия.
 
-- Channel: Oddplot. Tagline: Small Stories. Unexpected Turns.
-- Brand accents: midnight navy #101A32, orange #FF870D, ivory. These do not replace natural lighting or restrict every environment to a single colour.
-- Head identity: assets/hero_reference.png. Body, outline, footwear and expressions: assets/continuity/ approved V3 video and extracted PNGs. These are supplied in this package; do not assume another chat is accessible.
-- Same ivory rounded face, dark swept hair with tuft, dark oval eyes, navy clothing, orange vest with belt, slim dark limbs and small dark shoes. Keep the existing vest design for continuity; do not redesign the body or add a helmet, moustache or realistic human hands.
-- The hero plays an original fictional clock keeper for a visual reconstruction. He is not a named historical person. Third-person narration; lip-sync is not required. Mouth shapes convey reaction rather than following every narrator phoneme.
-- Reuse the approved rig if its source is present. Otherwise build a flat articulated rig from these references. Link each shoe to its foot/leg assembly; a planted shoe and its ankle may not separate when a knee bends.
-- assets/continuity/ODDPLOT_APPROVED_TEST_001_V3.mp4 is a visual/voice reference, not footage to paste into episode 002. Do not carry the ship, sea, life-saving context or sideways sink into the clock episode.
+## Сюжет и статус истории
 
-## Set and props
+Наш вымышленный герой открывает дверь: поднятый тротуар оказывается на уровне его лица. Возвращаемся в прошлое — грязь, потерянный ботинок, плохой сток, проект повышения улиц. Герой узнаёт, как множество винтовых домкратов согласованно поднимают здание; его дом получает более высокое основание. В финале та же дверь открывается на нормальную улицу. Соседняя дверь остаётся ниже: сосед поднимает грязный ботинок, а герой идёт помогать с измерениями.
 
-One economical 3D clock mechanism room inspired by Elizabeth Tower: pale stone/plaster walls, dark painted metal frame, brass/steel gears, clock dial visible from inside, timber or stone floor and warm directional window light. Show believable scale and moving connected parts without claiming an exact engineering survey.
+Реальная основа — повышение улиц и зданий Чикаго в XIX веке. Дом, его хозяин, конкретные жесты, комические эпизоды и последовательность бытовых сцен — авторская анимационная реконструкция. Это обозначается короткой ненавязчивой надписью в начале: **An animated story inspired by Chicago's street raising**. Озвучка также говорит об анимационной версии и вымышленной улице. Не выдавать действия героя за биографию реального инженера.
 
-The real pendulum extends into a shaft below the room: show its upper section, fixed pivot and coin shelf, with a guarded cutaway/educational view for the lower portion. Consult the official virtual tour and Royal Mint Museum photo links in FACTS_AND_SOURCES.md. Do not substitute a tabletop grandfather clock for the Westminster mechanism.
+Реальные работы происходили поэтапно и годами, не за один день. Вставка о Lake Street, 1860 — отдельный исторический пример, не адрес нашего дома. Имя Ellis Chesbrough и имя George Pullman показываем типографически; портреты и выдуманные исторические реплики не нужны.
 
-Model a small shelf attached to the pendulum's upper visible assembly, above its main lower mass. Coins ride the shelf as the pendulum moves; they are not floating independently. Use several consistent old pre-decimal British pennies, not modern US cents or current UK pennies. A modest bronze coin with a simple original period-inspired relief is sufficient; do not invent a specific rare date or claim an exact numismatic replica.
+## Внешний вид
 
-Minimum useful props: connected pendulum assembly and shelf, a short coin stack, a rigged coin in the hero's hand, two or three meshing gear pairs, recognisable clock dial, keeper's reference watch/logbook, an explanatory graphic for effective length, and a 24-hour rate comparison. Big Ben is the bell; the Great Clock is the mechanism. The bell can be omitted entirely.
+- Герой Oddplot — плоский 2D-персонаж внутри настоящего объёмного окружения. Сохраняем голову из оригинального аватара и тело из принятой V3: тёмные волосы с характерным хохолком, светлое лицо, овальные глаза, тёмная одежда, оранжевый жилет с ремнём, тонкие конечности и небольшая тёмная обувь.
+- Вложенные аватар, V3 и три кадра — эталоны личности и качества. Морскую сцену в новый фильм не переносим. Не нужно надевать на героя историческую бороду или менять лицо.
+- Для фона достаточно бригадира, трёх-четырёх вариантов рабочих и нескольких прохожих на общем простом риге. Не создавать толпу из десятков уникальных лиц.
+- Декорации: один квартал с домом A героя, низким домом B соседа, витринами, повозкой и поверхностью улицы; одна комната дома A; разрез грунта/труб/основания; настольная модель уклона и домкрата; упрощённый широкий исторический квартал.
+- Дома и улица меняют высоты независимо. Дом A, комната, дверная ручка, окна и мебель должны быть одними и теми же объектами во всех этапах.
 
-## Composition, motion and light
+## Камера, свет и анимация
 
-- Motivated dolly/push/side move with real parallax. Static set dressing is fine; the main action must animate. Avoid a single still with a zoom.
-- Macro coin opening, medium hero action, wide mechanism, close tray, simplified explanatory view, daily-rate graphic, return to keeper, macro-to-wide closing callback. Detailed anchors are in STORYBOARD.md.
-- Feet stay attached to the fixed room floor. Use small weight shifts and blinks; remove automatic looping jumps. Hand follows the coin to the moving shelf, releases on contact, then withdraws.
-- Connect gears with opposite rotation at each external mesh; no interpenetrating teeth or independently random rotations. An educational simplified linkage is acceptable. Do not label it an exact reproduction of Denison's escapement.
-- Warm side light, cool gentle fill, clean highlights on coins, readable ivory face, coherent floor/contact shadows. Use denoising and sufficient quality to avoid the grain of episode 001 V1. Do not hide details in glare.
+Горизонтальный кадр строить заново: полезное пространство слева и справа, глубина переднего/среднего/дальнего плана, живая работа рук и взгляда. Основные акценты: дверь на уровне тротуара, ботинок в грязи, работа винта, распределение опор, появление зазора, совпадение высот и повтор первой двери в финале.
 
-## Narration, timing and sound
+Мотивированные проезды и приближения; без постоянной тряски и беспрерывного zoom. Сочетать крупный предметный план, фигуру героя и общий план. Длительный план содержит действие или понятное изменение, а не неподвижное изображение.
 
-Use audio/VOICEOVER_EN.txt exactly. Voice should be curious, clear and conversational, with room for the physical explanation and the phrase 'two fifths of a second'. Reuse episode 001's actual narrator/voice ID if its settings exist in the production project. The included V3 audio is a continuity reference, not an authorisation for voice cloning. If that ID is unavailable, choose an already available suitable English voice and record the choice.
+Свет: мягкое естественное дневное освещение, тёплый направленный свет, прохладное заполнение; во время дождя — рассеянное пасмурное. Оранжевый/тёмно-синий — акценты бренда, а не обязательная окраска всех объектов. Чистый рендер, аккуратные контактные тени, читаемые лицо, резьба, опоры и вода. Тяжёлая физическая симуляция жидкости не требуется: вода и грязь могут быть экономично анимированы.
 
-The included text is not a recording of episode 002. Generate/record it during production. Export a clean voice track separately. Add a restrained mechanical ambience, soft coin-on-metal clicks, and ticking compatible with the real two-second beat. No rapid ticking change after a penny is added. Optional quiet music should leave the words intelligible.
+## Звук и речь
 
-Allow approximately six seconds total for coin contact, explanatory graphics and the closing expression, distributed through the edit. These are not six seconds of empty silence. Keep the scene alive during holds.
+Один английский рассказчик; герои играют мимикой и жестами. Реплик персонажей нет, полная фонемная синхронизация губ не требуется. Голос любопытный, спокойный, с лёгким юмором. Темп длинного фильма — ориентировочно 150 слов/мин, медленнее шортсов, чтобы зритель успевал рассмотреть действие.
 
-## Captions and callouts
+При наличии в производственном проекте используем тот же доступный голос/ID, что в принятой V3, с новым темпом. Если ID отсутствует, выбрать подходящий доступный голос и честно указать замену. Референсный MP4 не является разрешением на клонирование голоса.
 
-English, 1–4 words per caption, white bold with dark stroke, straight horizontal baseline. At 1080x1920, begin with about 52–60 px type and 4–5 px stroke; fit the actual font and width. Keep essential text within x=0.10–0.88 of frame, centred around y=0.72, rather than V3's low ~0.86 position. Move the hero/props within composition so captions do not obscure the hand/coin or important expression.
+Слои звука: чистая речь; грязь/шаги/дверь/повозка; тихая стройка, повороты механизмов, дождь; сдержанная музыка. Предусмотренные 76 секунд без речи заняты действиями и звуком. Музыка не маскирует объяснения. Нужны отдельная чистая озвучка и итоговый микс.
 
-Callouts are separate from spoken subtitles: '+0.4 s / day', '24 HOURS', 'TIME COMPRESSED', 'SIMPLIFIED MODEL', 'DIFFERENCE EXAGGERATED', 'ROD LENGTH UNCHANGED', '5 tonnes'. Use only the ones called for by the shot. Do not show metres of rod shortening or a suddenly spinning clock face. Subtitle source and schedule are drafts until aligned to the actual voice.
+## Титры
 
-## Required output
+Английские короткие группы по 1–4 слова, белые с тёмной обводкой. Для 1920×1080 начать с размера около 44–50 px и скорректировать по реальному шрифту. Центр основной строки около y=0.84, с запасом от нижнего края; допустима подстройка, если иначе перекрывается важная работа кисти или опоры. Сохранять одну согласованную полосу и горизонтальную строку. Исторические подписи и схемные обозначения — отдельный слой выше.
 
-1. output/EPISODE_002_FINAL.mp4 — complete narrated Short, actual 1080x1920 and 30 fps.
-2. output/EPISODE_002_VOICEOVER.wav — clean narration, preferably 48 kHz PCM; retain the native export too if converted.
-3. output/EPISODE_002_SUBTITLES.srt — final audio-aligned short caption groups.
-4. output/control_frames/ — one representative frame from each of the 11 storyboard blocks.
-5. output/review_sheets/ — all frames covered, 60 frames per sheet, final partial sheet if required.
-6. source/ — editable scene/rig, scripts, materials, needed assets and exact render/edit commands.
-7. output/QA_REPORT.json and output/QA_AUDIO_CHECK.txt, plus VISUAL_QA.md with actual checks and corrections.
-8. RENDER_NOTES.md — renderer/version, voice/ID, timing, resolution, frame count, settings, limitations, source paths and rerender command.
+Черновой SRT построен до записи; финальный выровнять по реальной озвучке. Не накладывать русский перевод поверх английских титров.
 
-Do not publish. Report the result honestly if a required renderer or speech dependency is missing, while preserving completed source work.
+## Итоговые материалы
+
+1. output/ODDPLOT_LONG_001_FINAL.mp4 — полный фильм 600 с, 18 000 кадров, 1920×1080/30 fps, с новой английской озвучкой.
+2. output/VOICEOVER_EN.wav — чистая речь с фактическими паузами; сохранить и исходный экспорт синтеза.
+3. output/SUBTITLES_EN.srt — финальная синхронизация.
+4. source/ — редактируемые сцены, риги, материалы, код, нужные ресурсы и команды повторного запуска.
+5. output/shot_clips/ и output/RENDER_PROGRESS.json — проверенные фрагменты и состояние производства для возобновления.
+6. output/control_frames/ — 60 кадров, по одному на план.
+7. output/review_sheets/ — все 18 000 кадров: 300 листов по 60 кадров при точном выполнении формата.
+8. output/QA_REPORT.json, output/AUDIO_QA.txt, VISUAL_QA.md и заполненный RENDER_NOTES.md.
+
+Не публиковать фильм. Этот комплект содержит исходные задания и сценарий; готового нового фильма или записанной озвучки в нём пока нет.

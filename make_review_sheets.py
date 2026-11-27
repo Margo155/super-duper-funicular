@@ -1,96 +1,67 @@
 #!/usr/bin/env python3
-"""Decode every original frame into 10x6 sheets; requires ffmpeg, ffprobe, Pillow."""
+"""Every source frame, 60 per sheet. ffmpeg/ffprobe/Pillow required."""
 import argparse
 import json
 import subprocess
 from fractions import Fraction
 from pathlib import Path
-
 from PIL import Image, ImageDraw
 
 
-def read_exact(pipe, count):
-    chunks = []
-    remaining = count
-    while remaining:
-        chunk = pipe.read(remaining)
-        if not chunk:
-            break
-        chunks.append(chunk)
-        remaining -= len(chunk)
-    data = b"".join(chunks)
-    if data and len(data) != count:
-        raise RuntimeError("Truncated raw frame")
-    return data
+def exact_read(pipe,n):
+    chunks=[];left=n
+    while left:
+        b=pipe.read(left)
+        if not b:break
+        chunks.append(b);left-=len(b)
+    out=b''.join(chunks)
+    if out and len(out)!=n:raise RuntimeError('Incomplete raw frame')
+    return out
 
 
 def main():
-    ap = argparse.ArgumentParser(description=__doc__)
-    ap.add_argument("video", type=Path)
-    ap.add_argument("--out", type=Path, required=True)
-    args = ap.parse_args()
-    probe = json.loads(subprocess.check_output([
-        "ffprobe", "-v", "error", "-select_streams", "v:0", "-show_streams",
-        "-of", "json", str(args.video),
-    ], text=True))
-    fps = Fraction(probe["streams"][0]["avg_frame_rate"])
-    if fps != Fraction(30, 1):
-        raise ValueError(f"Expected original 30 fps media, got {fps}; no frame resampling performed")
-    args.out.mkdir(parents=True, exist_ok=True)
-    w, h, label_h = 144, 256, 24
-    per_sheet = 60
-    sheet = None
-    entries = []
-    count = 0
-
-    def save_sheet(im, first, last):
-        number = len(entries) + 1
-        filename = f"sheet_{number:03d}_{first:05d}-{last:05d}.jpg"
-        im.save(args.out / filename, quality=92)
-        entries.append({"file": filename, "first_frame": first, "last_frame_inclusive": last,
-                        "frames": last-first+1, "start_s": first/30,
-                        "end_s_exclusive": (last+1)/30})
-
-    with (args.out / "ffmpeg_decode.log").open("wb") as log:
-        command = ["ffmpeg", "-v", "error", "-i", str(args.video), "-map", "0:v:0",
-                   "-an", "-vf", f"scale={w}:{h}", "-fps_mode", "passthrough",
-                   "-f", "rawvideo", "-pix_fmt", "rgb24", "pipe:1"]
-        proc = subprocess.Popen(command, stdout=subprocess.PIPE, stderr=log, stdin=subprocess.DEVNULL)
+    ap=argparse.ArgumentParser(description=__doc__)
+    ap.add_argument('video',type=Path);ap.add_argument('--out',type=Path,required=True)
+    a=ap.parse_args()
+    p=json.loads(subprocess.check_output(['ffprobe','-v','error','-select_streams','v:0',
+        '-show_streams','-of','json',str(a.video)],text=True))
+    if Fraction(p['streams'][0]['avg_frame_rate'])!=30:raise ValueError('Expected original 30 fps video; no resampling performed')
+    a.out.mkdir(parents=True,exist_ok=True)
+    width,height,label=192,108,24;count=0;entries=[];sheet=None
+    def save(first,last):
+        name=f'sheet_{len(entries)+1:03d}_{first:05d}-{last:05d}.jpg'
+        sheet.save(a.out/name,quality=93)
+        entries.append({'file':name,'first_frame':first,'last_frame_inclusive':last,
+                        'frames':last-first+1,'start_s':first/30,'end_s_exclusive':(last+1)/30})
+    vf=f'scale={width}:{height}:force_original_aspect_ratio=decrease,pad={width}:{height}:(ow-iw)/2:(oh-ih)/2'
+    with (a.out/'ffmpeg_decode.log').open('wb') as log:
+        proc=subprocess.Popen(['ffmpeg','-v','error','-i',str(a.video),'-map','0:v:0','-an',
+          '-vf',vf,'-fps_mode','passthrough','-f','rawvideo','-pix_fmt','rgb24','pipe:1'],
+          stdout=subprocess.PIPE,stderr=log,stdin=subprocess.DEVNULL)
         try:
             while True:
-                raw = read_exact(proc.stdout, w*h*3)
-                if not raw:
-                    break
-                local = count % per_sheet
-                if local == 0:
-                    sheet = Image.new("RGB", (w*10, (h+label_h)*6), (23, 25, 30))
-                    draw = ImageDraw.Draw(sheet)
-                x, y = (local % 10)*w, (local // 10)*(h+label_h)
-                sheet.paste(Image.frombytes("RGB", (w, h), raw), (x, y))
-                draw.text((x+3, y+h+4), f"{count:05d}  {count/30:.3f}s", fill="white")
-                count += 1
-                if count % per_sheet == 0:
-                    save_sheet(sheet, count-per_sheet, count-1)
-            if count % per_sheet:
-                save_sheet(sheet, count-count % per_sheet, count-1)
-            if proc.wait() != 0:
-                raise RuntimeError("ffmpeg failed; see ffmpeg_decode.log")
+                raw=exact_read(proc.stdout,width*height*3)
+                if not raw:break
+                local=count%60
+                if local==0:
+                    sheet=Image.new('RGB',(10*width,6*(height+label)),(22,24,29));draw=ImageDraw.Draw(sheet)
+                x=local%10*width;y=local//10*(height+label)
+                sheet.paste(Image.frombytes('RGB',(width,height),raw),(x,y))
+                draw.text((x+4,y+height+4),f'{count:05d} | {count/30:.3f}s',fill='white')
+                count+=1
+                if count%60==0:save(count-60,count-1)
+            if count%60:save(count-count%60,count-1)
+            if proc.wait()!=0:raise RuntimeError('ffmpeg failed; read ffmpeg_decode.log')
         except Exception:
-            proc.kill()
-            proc.wait()
-            raise
-        finally:
-            proc.stdout.close()
-    if not count:
-        raise RuntimeError("No frames decoded")
-    result = {"video": str(args.video), "fps": 30, "frames": count,
-              "sheets": len(entries), "frames_per_full_sheet": per_sheet,
-              "duration_from_frames_s": count/30, "full_coverage": True,
-              "method": "Sequential decode; no temporal resampling; thumbnails are not full-resolution quality checks",
-              "entries": entries}
-    (args.out / "INDEX.json").write_text(json.dumps(result, indent=2) + "\n", encoding="utf-8")
-    print(json.dumps({k: result[k] for k in ["frames", "sheets", "duration_from_frames_s", "full_coverage"]}))
+            proc.kill();proc.wait();raise
+        finally:proc.stdout.close()
+    if not count:raise RuntimeError('No decoded frames')
+    result={'video':str(a.video),'fps':30,'frames':count,'sheets':len(entries),
+            'frames_per_sheet':60,'full_coverage':True,'duration_from_frames_s':count/30,
+            'method':'Sequential original-frame decode; aspect-preserving thumbnails; no frame-rate resampling',
+            'entries':entries}
+    (a.out/'INDEX.json').write_text(json.dumps(result,indent=2)+'\n')
+    print(json.dumps({k:result[k] for k in ('frames','sheets','full_coverage','duration_from_frames_s')}))
 
 
-if __name__ == "__main__":
-    main()
+if __name__=='__main__':main()

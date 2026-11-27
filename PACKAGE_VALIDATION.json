@@ -1,39 +1,39 @@
 {
-  "package_kind": "production_handoff_not_rendered_episode",
-  "episode": 2,
-  "new_episode_rendered": false,
-  "new_episode_recorded_voice_included": false,
-  "approved_reference_video_included": true,
-  "source_fact_check_date": "2026-11-26",
-  "spoken_words": 153,
-  "narration_hash_verified": true,
-  "length_estimate": {
-    "seconds": 53.07692307692308,
-    "planned_wpm": 195,
-    "non_spoken_seconds": 6,
-    "recorded_performance": false
-  },
-  "storyboard_blocks": 11,
-  "draft_caption_events": 44,
-  "draft_captions_match_all_spoken_words": true,
-  "captions_are_audio_aligned": false,
-  "nominal_duration_seconds": 54,
-  "nominal_frames_at_30fps": 1620,
-  "validator_smoke_test": {
-    "reference_only": true,
-    "status": "passed",
-    "video_dimensions": [
-      1080,
-      1920
-    ],
-    "decoded_frames": 450
-  },
-  "review_sheet_smoke_test": {
-    "reference_only": true,
-    "decoded_frames": 450,
-    "sheets": 8,
-    "full_coverage": true
-  },
+  "package_type": "production_handoff",
+  "new_long_film_rendered": false,
+  "new_long_voice_recorded": false,
+  "measured_words": 1310,
+  "measured_script_hash_verified": true,
+  "planned_wpm": 150,
+  "planned_speech_s": 524,
+  "planned_action_sound_s": 76,
+  "planned_total_s": 600,
+  "recorded_performance": false,
+  "scenes": 20,
+  "shots": 60,
+  "nominal_frames": 18000,
+  "draft_caption_events": 372,
+  "captions_match_all_spoken_words": true,
+  "caption_timing_is_draft": true,
+  "frame_timeline_contiguous": true,
+  "russian_translation_complete": true,
+  "approved_v3_included": true,
   "python_scripts_compile": true,
+  "helper_checks": {
+    "validator_on_15s_reference": "passed",
+    "sheet_generator_on_reference": {
+      "frames": 450,
+      "sheets": 8,
+      "full_coverage": true
+    },
+    "assembler_on_synthetic_3s_fixture": {
+      "status": "passed",
+      "synthetic_fixture_only": true,
+      "clips": 3,
+      "decoded_frames": 90,
+      "duration_s": 3
+    }
+  },
+  "historical_source_check_date": "2026-11-26",
   "manifest_excludes_itself": true
 }

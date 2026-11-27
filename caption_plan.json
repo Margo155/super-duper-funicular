@@ -1,446 +1,2981 @@
 {
   "status": "DRAFT_NOT_AUDIO_ALIGNED",
   "fps": 30,
-  "nominal_duration": 54,
   "captions": [
     {
       "index": 1,
-      "start_frame": 3,
-      "end_frame_exclusive": 44,
-      "start_s": 0.1,
-      "end_s": 1.4666666666666666,
-      "text": "To make this enormous",
-      "shot": 1,
+      "start_frame": 26,
+      "end_frame_exclusive": 74,
+      "text": "He opens his front",
+      "shot": "S001",
       "status": "DRAFT_NOT_AUDIO_ALIGNED"
     },
     {
       "index": 2,
-      "start_frame": 44,
-      "end_frame_exclusive": 85,
-      "start_s": 1.4666666666666666,
-      "end_s": 2.8333333333333335,
-      "text": "clock run faster, its",
-      "shot": 1,
+      "start_frame": 74,
+      "end_frame_exclusive": 122,
+      "text": "door and finds a",
+      "shot": "S001",
       "status": "DRAFT_NOT_AUDIO_ALIGNED"
     },
     {
       "index": 3,
-      "start_frame": 85,
-      "end_frame_exclusive": 126,
-      "start_s": 2.8333333333333335,
-      "end_s": 4.2,
-      "text": "keepers add a penny.",
-      "shot": 1,
+      "start_frame": 122,
+      "end_frame_exclusive": 170,
+      "text": "street where the view",
+      "shot": "S001",
       "status": "DRAFT_NOT_AUDIO_ALIGNED"
     },
     {
       "index": 4,
-      "start_frame": 135,
-      "end_frame_exclusive": 173,
-      "start_s": 4.5,
-      "end_s": 5.766666666666667,
-      "text": "If it starts running",
-      "shot": 2,
+      "start_frame": 170,
+      "end_frame_exclusive": 206,
+      "text": "used to be.",
+      "shot": "S001",
       "status": "DRAFT_NOT_AUDIO_ALIGNED"
     },
     {
       "index": 5,
-      "start_frame": 173,
-      "end_frame_exclusive": 212,
-      "start_s": 5.766666666666667,
-      "end_s": 7.066666666666666,
-      "text": "too fast, they take",
-      "shot": 2,
+      "start_frame": 206,
+      "end_frame_exclusive": 254,
+      "text": "Shoes pass at eye",
+      "shot": "S001",
       "status": "DRAFT_NOT_AUDIO_ALIGNED"
     },
     {
       "index": 6,
-      "start_frame": 212,
-      "end_frame_exclusive": 231,
-      "start_s": 7.066666666666666,
-      "end_s": 7.7,
-      "text": "one away.",
-      "shot": 2,
+      "start_frame": 254,
+      "end_frame_exclusive": 266,
+      "text": "level.",
+      "shot": "S001",
       "status": "DRAFT_NOT_AUDIO_ALIGNED"
     },
     {
       "index": 7,
-      "start_frame": 240,
-      "end_frame_exclusive": 269,
-      "start_s": 8,
-      "end_s": 8.966666666666667,
-      "text": "Inside London's Elizabeth",
-      "shot": 3,
+      "start_frame": 318,
+      "end_frame_exclusive": 366,
+      "text": "A wheel rolls past",
+      "shot": "S002",
       "status": "DRAFT_NOT_AUDIO_ALIGNED"
     },
     {
       "index": 8,
-      "start_frame": 269,
-      "end_frame_exclusive": 308,
-      "start_s": 8.966666666666667,
-      "end_s": 10.266666666666667,
-      "text": "Tower, huge gears drive",
-      "shot": 3,
+      "start_frame": 366,
+      "end_frame_exclusive": 390,
+      "text": "his window.",
+      "shot": "S002",
       "status": "DRAFT_NOT_AUDIO_ALIGNED"
     },
     {
       "index": 9,
-      "start_frame": 308,
-      "end_frame_exclusive": 337,
-      "start_s": 10.266666666666667,
-      "end_s": 11.233333333333333,
-      "text": "four clock faces.",
-      "shot": 3,
+      "start_frame": 390,
+      "end_frame_exclusive": 438,
+      "text": "He checks the ceiling,",
+      "shot": "S002",
       "status": "DRAFT_NOT_AUDIO_ALIGNED"
     },
     {
       "index": 10,
-      "start_frame": 337,
-      "end_frame_exclusive": 376,
-      "start_s": 11.233333333333333,
-      "end_s": 12.533333333333333,
-      "text": "Their timing depends on",
-      "shot": 3,
+      "start_frame": 438,
+      "end_frame_exclusive": 474,
+      "text": "then the floor.",
+      "shot": "S002",
       "status": "DRAFT_NOT_AUDIO_ALIGNED"
     },
     {
       "index": 11,
-      "start_frame": 376,
-      "end_frame_exclusive": 405,
-      "start_s": 12.533333333333333,
-      "end_s": 13.5,
-      "text": "a swinging pendulum.",
-      "shot": 3,
+      "start_frame": 474,
+      "end_frame_exclusive": 522,
+      "text": "Everything inside seems to",
+      "shot": "S002",
       "status": "DRAFT_NOT_AUDIO_ALIGNED"
     },
     {
       "index": 12,
-      "start_frame": 414,
-      "end_frame_exclusive": 453,
-      "start_s": 13.8,
-      "end_s": 15.1,
-      "text": "And attached to that",
-      "shot": 4,
+      "start_frame": 522,
+      "end_frame_exclusive": 570,
+      "text": "be in its usual",
+      "shot": "S002",
       "status": "DRAFT_NOT_AUDIO_ALIGNED"
     },
     {
       "index": 13,
-      "start_frame": 453,
-      "end_frame_exclusive": 492,
-      "start_s": 15.1,
-      "end_s": 16.4,
-      "text": "pendulum is a little",
-      "shot": 4,
+      "start_frame": 570,
+      "end_frame_exclusive": 582,
+      "text": "place.",
+      "shot": "S002",
       "status": "DRAFT_NOT_AUDIO_ALIGNED"
     },
     {
       "index": 14,
-      "start_frame": 492,
-      "end_frame_exclusive": 530,
-      "start_s": 16.4,
-      "end_s": 17.666666666666668,
-      "text": "tray of old British",
-      "shot": 4,
+      "start_frame": 634,
+      "end_frame_exclusive": 682,
+      "text": "Outside, his doorway has",
+      "shot": "S003",
       "status": "DRAFT_NOT_AUDIO_ALIGNED"
     },
     {
       "index": 15,
-      "start_frame": 530,
-      "end_frame_exclusive": 540,
-      "start_s": 17.666666666666668,
-      "end_s": 18,
-      "text": "pennies.",
-      "shot": 4,
+      "start_frame": 682,
+      "end_frame_exclusive": 730,
+      "text": "become a hole beside",
+      "shot": "S003",
       "status": "DRAFT_NOT_AUDIO_ALIGNED"
     },
     {
       "index": 16,
-      "start_frame": 549,
-      "end_frame_exclusive": 590,
-      "start_s": 18.3,
-      "end_s": 19.666666666666668,
-      "text": "The trick is where",
-      "shot": 5,
+      "start_frame": 730,
+      "end_frame_exclusive": 754,
+      "text": "the pavement.",
+      "shot": "S003",
       "status": "DRAFT_NOT_AUDIO_ALIGNED"
     },
     {
       "index": 17,
-      "start_frame": 590,
-      "end_frame_exclusive": 621,
-      "start_s": 19.666666666666668,
-      "end_s": 20.7,
-      "text": "the coins sit.",
-      "shot": 5,
+      "start_frame": 754,
+      "end_frame_exclusive": 802,
+      "text": "Somehow, the city has",
+      "shot": "S003",
       "status": "DRAFT_NOT_AUDIO_ALIGNED"
     },
     {
       "index": 18,
-      "start_frame": 630,
-      "end_frame_exclusive": 668,
-      "start_s": 21,
-      "end_s": 22.266666666666666,
-      "text": "Adding a coin there",
-      "shot": 6,
+      "start_frame": 802,
+      "end_frame_exclusive": 850,
+      "text": "moved without taking his",
+      "shot": "S003",
       "status": "DRAFT_NOT_AUDIO_ALIGNED"
     },
     {
       "index": 19,
-      "start_frame": 668,
-      "end_frame_exclusive": 706,
-      "start_s": 22.266666666666666,
-      "end_s": 23.533333333333335,
-      "text": "changes how the pendulum's",
-      "shot": 6,
+      "start_frame": 850,
+      "end_frame_exclusive": 874,
+      "text": "house along.",
+      "shot": "S003",
       "status": "DRAFT_NOT_AUDIO_ALIGNED"
     },
     {
       "index": 20,
-      "start_frame": 706,
-      "end_frame_exclusive": 734,
-      "start_s": 23.533333333333335,
-      "end_s": 24.466666666666665,
-      "text": "weight is distributed.",
-      "shot": 6,
+      "start_frame": 916,
+      "end_frame_exclusive": 964,
+      "text": "A few years earlier,",
+      "shot": "S004",
       "status": "DRAFT_NOT_AUDIO_ALIGNED"
     },
     {
       "index": 21,
-      "start_frame": 734,
-      "end_frame_exclusive": 772,
-      "start_s": 24.466666666666665,
-      "end_s": 25.733333333333334,
-      "text": "It behaves as if",
-      "shot": 6,
+      "start_frame": 964,
+      "end_frame_exclusive": 1012,
+      "text": "getting home had involved",
+      "shot": "S004",
       "status": "DRAFT_NOT_AUDIO_ALIGNED"
     },
     {
       "index": 22,
-      "start_frame": 772,
-      "end_frame_exclusive": 809,
-      "start_s": 25.733333333333334,
-      "end_s": 26.966666666666665,
-      "text": "it were slightly shorter,",
-      "shot": 6,
+      "start_frame": 1012,
+      "end_frame_exclusive": 1060,
+      "text": "a different kind of",
+      "shot": "S004",
       "status": "DRAFT_NOT_AUDIO_ALIGNED"
     },
     {
       "index": 23,
-      "start_frame": 809,
-      "end_frame_exclusive": 847,
-      "start_s": 26.966666666666665,
-      "end_s": 28.233333333333334,
-      "text": "so each swing takes",
-      "shot": 6,
+      "start_frame": 1060,
+      "end_frame_exclusive": 1072,
+      "text": "problem.",
+      "shot": "S004",
       "status": "DRAFT_NOT_AUDIO_ALIGNED"
     },
     {
       "index": 24,
-      "start_frame": 847,
-      "end_frame_exclusive": 885,
-      "start_s": 28.233333333333334,
-      "end_s": 29.5,
-      "text": "a little less time.",
-      "shot": 6,
+      "start_frame": 1072,
+      "end_frame_exclusive": 1120,
+      "text": "One step into the",
+      "shot": "S004",
       "status": "DRAFT_NOT_AUDIO_ALIGNED"
     },
     {
       "index": 25,
-      "start_frame": 894,
-      "end_frame_exclusive": 935,
-      "start_s": 29.8,
-      "end_s": 31.166666666666668,
-      "text": "The metal rod stays",
-      "shot": 7,
+      "start_frame": 1120,
+      "end_frame_exclusive": 1168,
+      "text": "road, and his boot",
+      "shot": "S004",
       "status": "DRAFT_NOT_AUDIO_ALIGNED"
     },
     {
       "index": 26,
-      "start_frame": 935,
-      "end_frame_exclusive": 966,
-      "start_s": 31.166666666666668,
-      "end_s": 32.2,
-      "text": "the same length.",
-      "shot": 7,
+      "start_frame": 1168,
+      "end_frame_exclusive": 1192,
+      "text": "stayed behind.",
+      "shot": "S004",
       "status": "DRAFT_NOT_AUDIO_ALIGNED"
     },
     {
       "index": 27,
-      "start_frame": 975,
-      "end_frame_exclusive": 1014,
-      "start_s": 32.5,
-      "end_s": 33.8,
-      "text": "One old penny makes",
-      "shot": 8,
+      "start_frame": 1224,
+      "end_frame_exclusive": 1248,
+      "text": "He pulled.",
+      "shot": "S005",
       "status": "DRAFT_NOT_AUDIO_ALIGNED"
     },
     {
       "index": 28,
-      "start_frame": 1014,
-      "end_frame_exclusive": 1053,
-      "start_s": 33.8,
-      "end_s": 35.1,
-      "text": "the clock gain about",
-      "shot": 8,
+      "start_frame": 1248,
+      "end_frame_exclusive": 1296,
+      "text": "The mud held on.",
+      "shot": "S005",
       "status": "DRAFT_NOT_AUDIO_ALIGNED"
     },
     {
       "index": 29,
-      "start_frame": 1053,
-      "end_frame_exclusive": 1091,
-      "start_s": 35.1,
-      "end_s": 36.36666666666667,
-      "text": "two fifths of a",
-      "shot": 8,
+      "start_frame": 1296,
+      "end_frame_exclusive": 1344,
+      "text": "A passing cart added",
+      "shot": "S005",
       "status": "DRAFT_NOT_AUDIO_ALIGNED"
     },
     {
       "index": 30,
-      "start_frame": 1091,
-      "end_frame_exclusive": 1130,
-      "start_s": 36.36666666666667,
-      "end_s": 37.666666666666664,
-      "text": "second over an entire",
-      "shot": 8,
+      "start_frame": 1344,
+      "end_frame_exclusive": 1392,
+      "text": "a splash before he",
+      "shot": "S005",
       "status": "DRAFT_NOT_AUDIO_ALIGNED"
     },
     {
       "index": 31,
-      "start_frame": 1130,
-      "end_frame_exclusive": 1140,
-      "start_s": 37.666666666666664,
-      "end_s": 38,
-      "text": "day.",
-      "shot": 8,
+      "start_frame": 1392,
+      "end_frame_exclusive": 1440,
+      "text": "finally escaped with one",
+      "shot": "S005",
       "status": "DRAFT_NOT_AUDIO_ALIGNED"
     },
     {
       "index": 32,
-      "start_frame": 1149,
-      "end_frame_exclusive": 1188,
-      "start_s": 38.3,
-      "end_s": 39.6,
-      "text": "That change is too",
-      "shot": 9,
+      "start_frame": 1440,
+      "end_frame_exclusive": 1464,
+      "text": "muddy foot.",
+      "shot": "S005",
       "status": "DRAFT_NOT_AUDIO_ALIGNED"
     },
     {
       "index": 33,
-      "start_frame": 1188,
-      "end_frame_exclusive": 1227,
-      "start_s": 39.6,
-      "end_s": 40.9,
-      "text": "small to spot in",
-      "shot": 9,
+      "start_frame": 1496,
+      "end_frame_exclusive": 1544,
+      "text": "In this animated version",
+      "shot": "S006",
       "status": "DRAFT_NOT_AUDIO_ALIGNED"
     },
     {
       "index": 34,
-      "start_frame": 1227,
-      "end_frame_exclusive": 1256,
-      "start_s": 40.9,
-      "end_s": 41.86666666666667,
-      "text": "a single swing.",
-      "shot": 9,
+      "start_frame": 1544,
+      "end_frame_exclusive": 1592,
+      "text": "of nineteenth-century Chicago, even",
+      "shot": "S006",
       "status": "DRAFT_NOT_AUDIO_ALIGNED"
     },
     {
       "index": 35,
-      "start_frame": 1256,
-      "end_frame_exclusive": 1295,
-      "start_s": 41.86666666666667,
-      "end_s": 43.166666666666664,
-      "text": "But thousands of swings",
-      "shot": 9,
+      "start_frame": 1592,
+      "end_frame_exclusive": 1640,
+      "text": "a short walk could",
+      "shot": "S006",
       "status": "DRAFT_NOT_AUDIO_ALIGNED"
     },
     {
       "index": 36,
-      "start_frame": 1295,
-      "end_frame_exclusive": 1334,
-      "start_s": 43.166666666666664,
-      "end_s": 44.46666666666667,
-      "text": "turn it into a",
-      "shot": 9,
+      "start_frame": 1640,
+      "end_frame_exclusive": 1688,
+      "text": "become a small expedition.",
+      "shot": "S006",
       "status": "DRAFT_NOT_AUDIO_ALIGNED"
     },
     {
       "index": 37,
-      "start_frame": 1334,
-      "end_frame_exclusive": 1353,
-      "start_s": 44.46666666666667,
-      "end_s": 45.1,
-      "text": "useful correction.",
-      "shot": 9,
+      "start_frame": 1688,
+      "end_frame_exclusive": 1736,
+      "text": "And the trouble went",
+      "shot": "S006",
       "status": "DRAFT_NOT_AUDIO_ALIGNED"
     },
     {
       "index": 38,
-      "start_frame": 1362,
-      "end_frame_exclusive": 1402,
-      "start_s": 45.4,
-      "end_s": 46.733333333333334,
-      "text": "The keeper checks the",
-      "shot": 10,
+      "start_frame": 1736,
+      "end_frame_exclusive": 1784,
+      "text": "deeper than his boot.",
+      "shot": "S006",
       "status": "DRAFT_NOT_AUDIO_ALIGNED"
     },
     {
       "index": 39,
-      "start_frame": 1402,
-      "end_frame_exclusive": 1443,
-      "start_s": 46.733333333333334,
-      "end_s": 48.1,
-      "text": "clock, then adds or",
-      "shot": 10,
+      "start_frame": 1818,
+      "end_frame_exclusive": 1866,
+      "text": "Chicago stood on low,",
+      "shot": "S007",
       "status": "DRAFT_NOT_AUDIO_ALIGNED"
     },
     {
       "index": 40,
-      "start_frame": 1443,
-      "end_frame_exclusive": 1483,
-      "start_s": 48.1,
-      "end_s": 49.43333333333333,
-      "text": "removes coins to adjust",
-      "shot": 10,
+      "start_frame": 1866,
+      "end_frame_exclusive": 1914,
+      "text": "flat ground near the",
+      "shot": "S007",
       "status": "DRAFT_NOT_AUDIO_ALIGNED"
     },
     {
       "index": 41,
-      "start_frame": 1483,
-      "end_frame_exclusive": 1503,
-      "start_s": 49.43333333333333,
-      "end_s": 50.1,
-      "text": "its rate.",
-      "shot": 10,
+      "start_frame": 1914,
+      "end_frame_exclusive": 1926,
+      "text": "lake.",
+      "shot": "S007",
       "status": "DRAFT_NOT_AUDIO_ALIGNED"
     },
     {
       "index": 42,
-      "start_frame": 1512,
-      "end_frame_exclusive": 1563,
-      "start_s": 50.4,
-      "end_s": 52.1,
-      "text": "Five tonnes of clockwork,",
-      "shot": 11,
+      "start_frame": 1926,
+      "end_frame_exclusive": 1974,
+      "text": "Rain and dirty water",
+      "shot": "S007",
       "status": "DRAFT_NOT_AUDIO_ALIGNED"
     },
     {
       "index": 43,
-      "start_frame": 1563,
-      "end_frame_exclusive": 1601,
-      "start_s": 52.1,
-      "end_s": 53.36666666666667,
-      "text": "fine-tuned with pocket",
-      "shot": 11,
+      "start_frame": 1974,
+      "end_frame_exclusive": 2022,
+      "text": "had little slope to",
+      "shot": "S007",
       "status": "DRAFT_NOT_AUDIO_ALIGNED"
     },
     {
       "index": 44,
-      "start_frame": 1601,
-      "end_frame_exclusive": 1614,
-      "start_s": 53.36666666666667,
-      "end_s": 53.8,
-      "text": "change.",
-      "shot": 11,
+      "start_frame": 2022,
+      "end_frame_exclusive": 2034,
+      "text": "follow.",
+      "shot": "S007",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 45,
+      "start_frame": 2070,
+      "end_frame_exclusive": 2118,
+      "text": "Ditches could clog, and",
+      "shot": "S008",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 46,
+      "start_frame": 2118,
+      "end_frame_exclusive": 2166,
+      "text": "low spots collected what",
+      "shot": "S008",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 47,
+      "start_frame": 2166,
+      "end_frame_exclusive": 2214,
+      "text": "the streets needed to",
+      "shot": "S008",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 48,
+      "start_frame": 2214,
+      "end_frame_exclusive": 2238,
+      "text": "carry away.",
+      "shot": "S008",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 49,
+      "start_frame": 2238,
+      "end_frame_exclusive": 2286,
+      "text": "Our homeowner could put",
+      "shot": "S008",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 50,
+      "start_frame": 2286,
+      "end_frame_exclusive": 2334,
+      "text": "another board across a",
+      "shot": "S008",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 51,
+      "start_frame": 2334,
+      "end_frame_exclusive": 2382,
+      "text": "puddle, but the puddle",
+      "shot": "S008",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 52,
+      "start_frame": 2382,
+      "end_frame_exclusive": 2430,
+      "text": "would still be there.",
+      "shot": "S008",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 53,
+      "start_frame": 2466,
+      "end_frame_exclusive": 2514,
+      "text": "Across the city, engineers",
+      "shot": "S009",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 54,
+      "start_frame": 2514,
+      "end_frame_exclusive": 2562,
+      "text": "faced a larger version",
+      "shot": "S009",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 55,
+      "start_frame": 2562,
+      "end_frame_exclusive": 2610,
+      "text": "of the same question:",
+      "shot": "S009",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 56,
+      "start_frame": 2610,
+      "end_frame_exclusive": 2658,
+      "text": "where could all that",
+      "shot": "S009",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 57,
+      "start_frame": 2658,
+      "end_frame_exclusive": 2682,
+      "text": "water go?",
+      "shot": "S009",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 58,
+      "start_frame": 2712,
+      "end_frame_exclusive": 2760,
+      "text": "A sewer needs a",
+      "shot": "S010",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 59,
+      "start_frame": 2760,
+      "end_frame_exclusive": 2808,
+      "text": "route that carries its",
+      "shot": "S010",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 60,
+      "start_frame": 2808,
+      "end_frame_exclusive": 2832,
+      "text": "contents onward.",
+      "shot": "S010",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 61,
+      "start_frame": 2832,
+      "end_frame_exclusive": 2880,
+      "text": "Digging a deeper hole",
+      "shot": "S010",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 62,
+      "start_frame": 2880,
+      "end_frame_exclusive": 2928,
+      "text": "at one end does",
+      "shot": "S010",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 63,
+      "start_frame": 2928,
+      "end_frame_exclusive": 2976,
+      "text": "not create a downhill",
+      "shot": "S010",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 64,
+      "start_frame": 2976,
+      "end_frame_exclusive": 3024,
+      "text": "path all the way",
+      "shot": "S010",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 65,
+      "start_frame": 3024,
+      "end_frame_exclusive": 3060,
+      "text": "to the outlet.",
+      "shot": "S010",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 66,
+      "start_frame": 3084,
+      "end_frame_exclusive": 3132,
+      "text": "On a simple model,",
+      "shot": "S011",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 67,
+      "start_frame": 3132,
+      "end_frame_exclusive": 3180,
+      "text": "he pours water into",
+      "shot": "S011",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 68,
+      "start_frame": 3180,
+      "end_frame_exclusive": 3216,
+      "text": "a level channel.",
+      "shot": "S011",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 69,
+      "start_frame": 3216,
+      "end_frame_exclusive": 3240,
+      "text": "It gathers.",
+      "shot": "S011",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 70,
+      "start_frame": 3240,
+      "end_frame_exclusive": 3288,
+      "text": "Tilt the channel, and",
+      "shot": "S011",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 71,
+      "start_frame": 3288,
+      "end_frame_exclusive": 3324,
+      "text": "the water travels.",
+      "shot": "S011",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 72,
+      "start_frame": 3348,
+      "end_frame_exclusive": 3396,
+      "text": "The useful difference is",
+      "shot": "S012",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 73,
+      "start_frame": 3396,
+      "end_frame_exclusive": 3444,
+      "text": "small, but it has",
+      "shot": "S012",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 74,
+      "start_frame": 3444,
+      "end_frame_exclusive": 3492,
+      "text": "to continue along the",
+      "shot": "S012",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 75,
+      "start_frame": 3492,
+      "end_frame_exclusive": 3504,
+      "text": "route.",
+      "shot": "S012",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 76,
+      "start_frame": 3504,
+      "end_frame_exclusive": 3552,
+      "text": "The city needed room",
+      "shot": "S012",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 77,
+      "start_frame": 3552,
+      "end_frame_exclusive": 3588,
+      "text": "for that slope.",
+      "shot": "S012",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 78,
+      "start_frame": 3622,
+      "end_frame_exclusive": 3670,
+      "text": "In the eighteen-fifties, engineer",
+      "shot": "S013",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 79,
+      "start_frame": 3670,
+      "end_frame_exclusive": 3718,
+      "text": "Ellis Chesbrough helped Chicago",
+      "shot": "S013",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 80,
+      "start_frame": 3718,
+      "end_frame_exclusive": 3766,
+      "text": "plan a new sewer",
+      "shot": "S013",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 81,
+      "start_frame": 3766,
+      "end_frame_exclusive": 3778,
+      "text": "system.",
+      "shot": "S013",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 82,
+      "start_frame": 3778,
+      "end_frame_exclusive": 3826,
+      "text": "Part of the answer",
+      "shot": "S013",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 83,
+      "start_frame": 3826,
+      "end_frame_exclusive": 3874,
+      "text": "was to raise street",
+      "shot": "S013",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 84,
+      "start_frame": 3874,
+      "end_frame_exclusive": 3886,
+      "text": "levels.",
+      "shot": "S013",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 85,
+      "start_frame": 3930,
+      "end_frame_exclusive": 3978,
+      "text": "Pipes could occupy space",
+      "shot": "S014",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 86,
+      "start_frame": 3978,
+      "end_frame_exclusive": 4026,
+      "text": "above the old ground,",
+      "shot": "S014",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 87,
+      "start_frame": 4026,
+      "end_frame_exclusive": 4074,
+      "text": "then disappear beneath fill",
+      "shot": "S014",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 88,
+      "start_frame": 4074,
+      "end_frame_exclusive": 4110,
+      "text": "and new pavement.",
+      "shot": "S014",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 89,
+      "start_frame": 4110,
+      "end_frame_exclusive": 4158,
+      "text": "On the drawing, the",
+      "shot": "S014",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 90,
+      "start_frame": 4158,
+      "end_frame_exclusive": 4206,
+      "text": "higher street looks like",
+      "shot": "S014",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 91,
+      "start_frame": 4206,
+      "end_frame_exclusive": 4242,
+      "text": "one clean line.",
+      "shot": "S014",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 92,
+      "start_frame": 4286,
+      "end_frame_exclusive": 4334,
+      "text": "Our homeowner follows it",
+      "shot": "S015",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 93,
+      "start_frame": 4334,
+      "end_frame_exclusive": 4382,
+      "text": "with his finger until",
+      "shot": "S015",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 94,
+      "start_frame": 4382,
+      "end_frame_exclusive": 4430,
+      "text": "it crosses the middle",
+      "shot": "S015",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 95,
+      "start_frame": 4430,
+      "end_frame_exclusive": 4478,
+      "text": "of his front door.",
+      "shot": "S015",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 96,
+      "start_frame": 4520,
+      "end_frame_exclusive": 4568,
+      "text": "The work happened in",
+      "shot": "S016",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 97,
+      "start_frame": 4568,
+      "end_frame_exclusive": 4604,
+      "text": "stages, over years.",
+      "shot": "S016",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 98,
+      "start_frame": 4604,
+      "end_frame_exclusive": 4652,
+      "text": "Different streets and properties",
+      "shot": "S016",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 99,
+      "start_frame": 4652,
+      "end_frame_exclusive": 4700,
+      "text": "changed at different times.",
+      "shot": "S016",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 100,
+      "start_frame": 4700,
+      "end_frame_exclusive": 4748,
+      "text": "Along our fictional street,",
+      "shot": "S016",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 101,
+      "start_frame": 4748,
+      "end_frame_exclusive": 4796,
+      "text": "the new surface gradually",
+      "shot": "S016",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 102,
+      "start_frame": 4796,
+      "end_frame_exclusive": 4844,
+      "text": "reaches the planned height.",
+      "shot": "S016",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 103,
+      "start_frame": 4884,
+      "end_frame_exclusive": 4932,
+      "text": "Now we are back",
+      "shot": "S017",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 104,
+      "start_frame": 4932,
+      "end_frame_exclusive": 4980,
+      "text": "at that strange doorway.",
+      "shot": "S017",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 105,
+      "start_frame": 4980,
+      "end_frame_exclusive": 5028,
+      "text": "His house has stayed",
+      "shot": "S017",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 106,
+      "start_frame": 5028,
+      "end_frame_exclusive": 5076,
+      "text": "put while the street",
+      "shot": "S017",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 107,
+      "start_frame": 5076,
+      "end_frame_exclusive": 5124,
+      "text": "has risen beside it.",
+      "shot": "S017",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 108,
+      "start_frame": 5164,
+      "end_frame_exclusive": 5212,
+      "text": "A few temporary steps",
+      "shot": "S018",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 109,
+      "start_frame": 5212,
+      "end_frame_exclusive": 5260,
+      "text": "restore the way out.",
+      "shot": "S018",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 110,
+      "start_frame": 5260,
+      "end_frame_exclusive": 5308,
+      "text": "They also make every",
+      "shot": "S018",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 111,
+      "start_frame": 5308,
+      "end_frame_exclusive": 5356,
+      "text": "sack, parcel, and bucket",
+      "shot": "S018",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 112,
+      "start_frame": 5356,
+      "end_frame_exclusive": 5380,
+      "text": "a climb.",
+      "shot": "S018",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 113,
+      "start_frame": 5422,
+      "end_frame_exclusive": 5470,
+      "text": "Property owners had another",
+      "shot": "S019",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 114,
+      "start_frame": 5470,
+      "end_frame_exclusive": 5518,
+      "text": "possibility: bring their buildings",
+      "shot": "S019",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 115,
+      "start_frame": 5518,
+      "end_frame_exclusive": 5566,
+      "text": "up to the new",
+      "shot": "S019",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 116,
+      "start_frame": 5566,
+      "end_frame_exclusive": 5578,
+      "text": "street.",
+      "shot": "S019",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 117,
+      "start_frame": 5578,
+      "end_frame_exclusive": 5626,
+      "text": "Our homeowner imagines lifting",
+      "shot": "S019",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 118,
+      "start_frame": 5626,
+      "end_frame_exclusive": 5674,
+      "text": "his roof, then notices",
+      "shot": "S019",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 119,
+      "start_frame": 5674,
+      "end_frame_exclusive": 5722,
+      "text": "the walls would have",
+      "shot": "S019",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 120,
+      "start_frame": 5722,
+      "end_frame_exclusive": 5758,
+      "text": "to come too.",
+      "shot": "S019",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 121,
+      "start_frame": 5802,
+      "end_frame_exclusive": 5850,
+      "text": "So would the floor,",
+      "shot": "S020",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 122,
+      "start_frame": 5850,
+      "end_frame_exclusive": 5898,
+      "text": "the windows, and the",
+      "shot": "S020",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 123,
+      "start_frame": 5898,
+      "end_frame_exclusive": 5946,
+      "text": "door he has just",
+      "shot": "S020",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 124,
+      "start_frame": 5946,
+      "end_frame_exclusive": 5958,
+      "text": "repaired.",
+      "shot": "S020",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 125,
+      "start_frame": 5958,
+      "end_frame_exclusive": 6006,
+      "text": "The whole building needs",
+      "shot": "S020",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 126,
+      "start_frame": 6006,
+      "end_frame_exclusive": 6042,
+      "text": "to rise together.",
+      "shot": "S020",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 127,
+      "start_frame": 6086,
+      "end_frame_exclusive": 6134,
+      "text": "He looks from the",
+      "shot": "S021",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 128,
+      "start_frame": 6134,
+      "end_frame_exclusive": 6182,
+      "text": "small lifting tools on",
+      "shot": "S021",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 129,
+      "start_frame": 6182,
+      "end_frame_exclusive": 6230,
+      "text": "the ground to the",
+      "shot": "S021",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 130,
+      "start_frame": 6230,
+      "end_frame_exclusive": 6278,
+      "text": "heavy house above them.",
+      "shot": "S021",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 131,
+      "start_frame": 6324,
+      "end_frame_exclusive": 6372,
+      "text": "The tool is a",
+      "shot": "S022",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 132,
+      "start_frame": 6372,
+      "end_frame_exclusive": 6396,
+      "text": "screw jack.",
+      "shot": "S022",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 133,
+      "start_frame": 6396,
+      "end_frame_exclusive": 6444,
+      "text": "Turning its mechanism produces",
+      "shot": "S022",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 134,
+      "start_frame": 6444,
+      "end_frame_exclusive": 6492,
+      "text": "a small upward movement",
+      "shot": "S022",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 135,
+      "start_frame": 6492,
+      "end_frame_exclusive": 6528,
+      "text": "under a load.",
+      "shot": "S022",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 136,
+      "start_frame": 6576,
+      "end_frame_exclusive": 6624,
+      "text": "A modest rise takes",
+      "shot": "S023",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 137,
+      "start_frame": 6624,
+      "end_frame_exclusive": 6672,
+      "text": "a much longer movement",
+      "shot": "S023",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 138,
+      "start_frame": 6672,
+      "end_frame_exclusive": 6708,
+      "text": "around the handle.",
+      "shot": "S023",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 139,
+      "start_frame": 6708,
+      "end_frame_exclusive": 6756,
+      "text": "On the model, he",
+      "shot": "S023",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 140,
+      "start_frame": 6756,
+      "end_frame_exclusive": 6804,
+      "text": "watches the turning part",
+      "shot": "S023",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 141,
+      "start_frame": 6804,
+      "end_frame_exclusive": 6852,
+      "text": "and the lifting part",
+      "shot": "S023",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 142,
+      "start_frame": 6852,
+      "end_frame_exclusive": 6888,
+      "text": "separately, then together.",
+      "shot": "S023",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 143,
+      "start_frame": 6936,
+      "end_frame_exclusive": 6984,
+      "text": "The screw provides useful",
+      "shot": "S024",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 144,
+      "start_frame": 6984,
+      "end_frame_exclusive": 7008,
+      "text": "mechanical advantage.",
+      "shot": "S024",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 145,
+      "start_frame": 7008,
+      "end_frame_exclusive": 7056,
+      "text": "It still needs effort,",
+      "shot": "S024",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 146,
+      "start_frame": 7056,
+      "end_frame_exclusive": 7104,
+      "text": "a firm support, and",
+      "shot": "S024",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 147,
+      "start_frame": 7104,
+      "end_frame_exclusive": 7152,
+      "text": "a load it can",
+      "shot": "S024",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 148,
+      "start_frame": 7152,
+      "end_frame_exclusive": 7176,
+      "text": "actually carry.",
+      "shot": "S024",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 149,
+      "start_frame": 7220,
+      "end_frame_exclusive": 7268,
+      "text": "A building cannot be",
+      "shot": "S025",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 150,
+      "start_frame": 7268,
+      "end_frame_exclusive": 7316,
+      "text": "treated like a box",
+      "shot": "S025",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 151,
+      "start_frame": 7316,
+      "end_frame_exclusive": 7364,
+      "text": "balanced on one corner.",
+      "shot": "S025",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 152,
+      "start_frame": 7364,
+      "end_frame_exclusive": 7412,
+      "text": "Its weight needs support",
+      "shot": "S025",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 153,
+      "start_frame": 7412,
+      "end_frame_exclusive": 7448,
+      "text": "across the structure.",
+      "shot": "S025",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 154,
+      "start_frame": 7448,
+      "end_frame_exclusive": 7496,
+      "text": "Timber beams and many",
+      "shot": "S025",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 155,
+      "start_frame": 7496,
+      "end_frame_exclusive": 7544,
+      "text": "lifting points spread the",
+      "shot": "S025",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 156,
+      "start_frame": 7544,
+      "end_frame_exclusive": 7556,
+      "text": "work.",
+      "shot": "S025",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 157,
+      "start_frame": 7596,
+      "end_frame_exclusive": 7644,
+      "text": "In a cutaway, the",
+      "shot": "S026",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 158,
+      "start_frame": 7644,
+      "end_frame_exclusive": 7692,
+      "text": "arrangement becomes easier to",
+      "shot": "S026",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 159,
+      "start_frame": 7692,
+      "end_frame_exclusive": 7740,
+      "text": "understand: the house rests",
+      "shot": "S026",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 160,
+      "start_frame": 7740,
+      "end_frame_exclusive": 7788,
+      "text": "on a network rather",
+      "shot": "S026",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 161,
+      "start_frame": 7788,
+      "end_frame_exclusive": 7836,
+      "text": "than a single magic",
+      "shot": "S026",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 162,
+      "start_frame": 7836,
+      "end_frame_exclusive": 7848,
+      "text": "pillar.",
+      "shot": "S026",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 163,
+      "start_frame": 7888,
+      "end_frame_exclusive": 7936,
+      "text": "Our homeowner follows the",
+      "shot": "S027",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 164,
+      "start_frame": 7936,
+      "end_frame_exclusive": 7984,
+      "text": "beams with his eyes.",
+      "shot": "S027",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 165,
+      "start_frame": 7984,
+      "end_frame_exclusive": 8032,
+      "text": "The little tools begin",
+      "shot": "S027",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 166,
+      "start_frame": 8032,
+      "end_frame_exclusive": 8080,
+      "text": "to look more convincing.",
+      "shot": "S027",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 167,
+      "start_frame": 8126,
+      "end_frame_exclusive": 8174,
+      "text": "The difficult part is",
+      "shot": "S028",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 168,
+      "start_frame": 8174,
+      "end_frame_exclusive": 8222,
+      "text": "making the lifting points",
+      "shot": "S028",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 169,
+      "start_frame": 8222,
+      "end_frame_exclusive": 8234,
+      "text": "agree.",
+      "shot": "S028",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 170,
+      "start_frame": 8234,
+      "end_frame_exclusive": 8282,
+      "text": "If one area rises",
+      "shot": "S028",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 171,
+      "start_frame": 8282,
+      "end_frame_exclusive": 8330,
+      "text": "much faster, the structure",
+      "shot": "S028",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 172,
+      "start_frame": 8330,
+      "end_frame_exclusive": 8366,
+      "text": "can be strained.",
+      "shot": "S028",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 173,
+      "start_frame": 8418,
+      "end_frame_exclusive": 8466,
+      "text": "The crew needs controlled",
+      "shot": "S029",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 174,
+      "start_frame": 8466,
+      "end_frame_exclusive": 8514,
+      "text": "movement and regular checks.",
+      "shot": "S029",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 175,
+      "start_frame": 8514,
+      "end_frame_exclusive": 8562,
+      "text": "In our scene, a",
+      "shot": "S029",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 176,
+      "start_frame": 8562,
+      "end_frame_exclusive": 8610,
+      "text": "foreman gives the signal.",
+      "shot": "S029",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 177,
+      "start_frame": 8610,
+      "end_frame_exclusive": 8658,
+      "text": "Hands turn, then stop.",
+      "shot": "S029",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 178,
+      "start_frame": 8710,
+      "end_frame_exclusive": 8734,
+      "text": "Measurements follow.",
+      "shot": "S030",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 179,
+      "start_frame": 8734,
+      "end_frame_exclusive": 8782,
+      "text": "Our homeowner holds a",
+      "shot": "S030",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 180,
+      "start_frame": 8782,
+      "end_frame_exclusive": 8830,
+      "text": "marker beside the reference",
+      "shot": "S030",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 181,
+      "start_frame": 8830,
+      "end_frame_exclusive": 8878,
+      "text": "line, waiting while the",
+      "shot": "S030",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 182,
+      "start_frame": 8878,
+      "end_frame_exclusive": 8926,
+      "text": "foreman compares it with",
+      "shot": "S030",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 183,
+      "start_frame": 8926,
+      "end_frame_exclusive": 8974,
+      "text": "the other lifting points.",
+      "shot": "S030",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 184,
+      "start_frame": 9020,
+      "end_frame_exclusive": 9068,
+      "text": "At first, almost nothing",
+      "shot": "S031",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 185,
+      "start_frame": 9068,
+      "end_frame_exclusive": 9104,
+      "text": "seems to happen.",
+      "shot": "S031",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 186,
+      "start_frame": 9104,
+      "end_frame_exclusive": 9152,
+      "text": "He watches a line",
+      "shot": "S031",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 187,
+      "start_frame": 9152,
+      "end_frame_exclusive": 9188,
+      "text": "on the wall.",
+      "shot": "S031",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 188,
+      "start_frame": 9188,
+      "end_frame_exclusive": 9236,
+      "text": "Then a narrow gap",
+      "shot": "S031",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 189,
+      "start_frame": 9236,
+      "end_frame_exclusive": 9284,
+      "text": "appears where the building",
+      "shot": "S031",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 190,
+      "start_frame": 9284,
+      "end_frame_exclusive": 9332,
+      "text": "met its old support.",
+      "shot": "S031",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 191,
+      "start_frame": 9372,
+      "end_frame_exclusive": 9396,
+      "text": "Another check.",
+      "shot": "S032",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 192,
+      "start_frame": 9396,
+      "end_frame_exclusive": 9432,
+      "text": "Another small movement.",
+      "shot": "S032",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 193,
+      "start_frame": 9432,
+      "end_frame_exclusive": 9480,
+      "text": "The house is rising.",
+      "shot": "S032",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 194,
+      "start_frame": 9480,
+      "end_frame_exclusive": 9528,
+      "text": "From inside, the room",
+      "shot": "S032",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 195,
+      "start_frame": 9528,
+      "end_frame_exclusive": 9564,
+      "text": "still looks familiar.",
+      "shot": "S032",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 196,
+      "start_frame": 9604,
+      "end_frame_exclusive": 9652,
+      "text": "From outside, daylight is",
+      "shot": "S033",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 197,
+      "start_frame": 9652,
+      "end_frame_exclusive": 9688,
+      "text": "appearing beneath it.",
+      "shot": "S033",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 198,
+      "start_frame": 9688,
+      "end_frame_exclusive": 9736,
+      "text": "The same tiny change,",
+      "shot": "S033",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 199,
+      "start_frame": 9736,
+      "end_frame_exclusive": 9784,
+      "text": "repeated across the supports,",
+      "shot": "S033",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 200,
+      "start_frame": 9784,
+      "end_frame_exclusive": 9832,
+      "text": "has started moving something",
+      "shot": "S033",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 201,
+      "start_frame": 9832,
+      "end_frame_exclusive": 9880,
+      "text": "that looked completely immovable.",
+      "shot": "S033",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 202,
+      "start_frame": 9922,
+      "end_frame_exclusive": 9970,
+      "text": "He wants to hurry",
+      "shot": "S034",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 203,
+      "start_frame": 9970,
+      "end_frame_exclusive": 9982,
+      "text": "now.",
+      "shot": "S034",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 204,
+      "start_frame": 9982,
+      "end_frame_exclusive": 10030,
+      "text": "The new street is",
+      "shot": "S034",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 205,
+      "start_frame": 10030,
+      "end_frame_exclusive": 10078,
+      "text": "still well above his",
+      "shot": "S034",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 206,
+      "start_frame": 10078,
+      "end_frame_exclusive": 10090,
+      "text": "doorstep.",
+      "shot": "S034",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 207,
+      "start_frame": 10090,
+      "end_frame_exclusive": 10138,
+      "text": "But the workers keep",
+      "shot": "S034",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 208,
+      "start_frame": 10138,
+      "end_frame_exclusive": 10186,
+      "text": "returning to the same",
+      "shot": "S034",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 209,
+      "start_frame": 10186,
+      "end_frame_exclusive": 10222,
+      "text": "marks and measurements.",
+      "shot": "S034",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 210,
+      "start_frame": 10266,
+      "end_frame_exclusive": 10314,
+      "text": "The aim is to",
+      "shot": "S035",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 211,
+      "start_frame": 10314,
+      "end_frame_exclusive": 10362,
+      "text": "preserve the building while",
+      "shot": "S035",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 212,
+      "start_frame": 10362,
+      "end_frame_exclusive": 10398,
+      "text": "changing its height.",
+      "shot": "S035",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 213,
+      "start_frame": 10398,
+      "end_frame_exclusive": 10446,
+      "text": "Beams must remain supported;",
+      "shot": "S035",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 214,
+      "start_frame": 10446,
+      "end_frame_exclusive": 10494,
+      "text": "different parts must rise",
+      "shot": "S035",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 215,
+      "start_frame": 10494,
+      "end_frame_exclusive": 10518,
+      "text": "in step.",
+      "shot": "S035",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 216,
+      "start_frame": 10562,
+      "end_frame_exclusive": 10610,
+      "text": "He lowers his impatient",
+      "shot": "S036",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 217,
+      "start_frame": 10610,
+      "end_frame_exclusive": 10658,
+      "text": "hand and waits for",
+      "shot": "S036",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 218,
+      "start_frame": 10658,
+      "end_frame_exclusive": 10694,
+      "text": "the next signal.",
+      "shot": "S036",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 219,
+      "start_frame": 10694,
+      "end_frame_exclusive": 10742,
+      "text": "Progress here is measured",
+      "shot": "S036",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 220,
+      "start_frame": 10742,
+      "end_frame_exclusive": 10778,
+      "text": "in careful increments.",
+      "shot": "S036",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 221,
+      "start_frame": 10816,
+      "end_frame_exclusive": 10864,
+      "text": "Time passes across the",
+      "shot": "S037",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 222,
+      "start_frame": 10864,
+      "end_frame_exclusive": 10876,
+      "text": "worksite.",
+      "shot": "S037",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 223,
+      "start_frame": 10876,
+      "end_frame_exclusive": 10900,
+      "text": "Shadows change.",
+      "shot": "S037",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 224,
+      "start_frame": 10900,
+      "end_frame_exclusive": 10924,
+      "text": "Materials arrive.",
+      "shot": "S037",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 225,
+      "start_frame": 10924,
+      "end_frame_exclusive": 10972,
+      "text": "New supports and masonry",
+      "shot": "S037",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 226,
+      "start_frame": 10972,
+      "end_frame_exclusive": 11020,
+      "text": "gradually occupy the space",
+      "shot": "S037",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 227,
+      "start_frame": 11020,
+      "end_frame_exclusive": 11068,
+      "text": "beneath the rising house.",
+      "shot": "S037",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 228,
+      "start_frame": 11100,
+      "end_frame_exclusive": 11148,
+      "text": "The lift is a",
+      "shot": "S038",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 229,
+      "start_frame": 11148,
+      "end_frame_exclusive": 11196,
+      "text": "process, with the building",
+      "shot": "S038",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 230,
+      "start_frame": 11196,
+      "end_frame_exclusive": 11220,
+      "text": "supported throughout.",
+      "shot": "S038",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 231,
+      "start_frame": 11220,
+      "end_frame_exclusive": 11268,
+      "text": "Our homeowner starts recognising",
+      "shot": "S038",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 232,
+      "start_frame": 11268,
+      "end_frame_exclusive": 11292,
+      "text": "the routine.",
+      "shot": "S038",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 233,
+      "start_frame": 11292,
+      "end_frame_exclusive": 11328,
+      "text": "Watch the line.",
+      "shot": "S038",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 234,
+      "start_frame": 11328,
+      "end_frame_exclusive": 11376,
+      "text": "Wait for the signal.",
+      "shot": "S038",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 235,
+      "start_frame": 11408,
+      "end_frame_exclusive": 11456,
+      "text": "Check the next small",
+      "shot": "S039",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 236,
+      "start_frame": 11456,
+      "end_frame_exclusive": 11468,
+      "text": "gain.",
+      "shot": "S039",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 237,
+      "start_frame": 11468,
+      "end_frame_exclusive": 11516,
+      "text": "His doorway is slowly",
+      "shot": "S039",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 238,
+      "start_frame": 11516,
+      "end_frame_exclusive": 11564,
+      "text": "catching up with the",
+      "shot": "S039",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 239,
+      "start_frame": 11564,
+      "end_frame_exclusive": 11612,
+      "text": "pavement, and the frightening",
+      "shot": "S039",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 240,
+      "start_frame": 11612,
+      "end_frame_exclusive": 11660,
+      "text": "gap is becoming a",
+      "shot": "S039",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 241,
+      "start_frame": 11660,
+      "end_frame_exclusive": 11684,
+      "text": "new foundation.",
+      "shot": "S039",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 242,
+      "start_frame": 11716,
+      "end_frame_exclusive": 11764,
+      "text": "The real Chicago projects",
+      "shot": "S040",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 243,
+      "start_frame": 11764,
+      "end_frame_exclusive": 11812,
+      "text": "could be much larger",
+      "shot": "S040",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 244,
+      "start_frame": 11812,
+      "end_frame_exclusive": 11860,
+      "text": "than our little house.",
+      "shot": "S040",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 245,
+      "start_frame": 11860,
+      "end_frame_exclusive": 11908,
+      "text": "In eighteen sixty, George",
+      "shot": "S040",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 246,
+      "start_frame": 11908,
+      "end_frame_exclusive": 11956,
+      "text": "Pullman and his partners",
+      "shot": "S040",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 247,
+      "start_frame": 11956,
+      "end_frame_exclusive": 12004,
+      "text": "helped raise an entire",
+      "shot": "S040",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 248,
+      "start_frame": 12004,
+      "end_frame_exclusive": 12052,
+      "text": "block on Lake Street.",
+      "shot": "S040",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 249,
+      "start_frame": 12084,
+      "end_frame_exclusive": 12132,
+      "text": "Historical accounts describe six",
+      "shot": "S041",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 250,
+      "start_frame": 12132,
+      "end_frame_exclusive": 12180,
+      "text": "thousand screw jacks working",
+      "shot": "S041",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 251,
+      "start_frame": 12180,
+      "end_frame_exclusive": 12228,
+      "text": "beneath the buildings, while",
+      "shot": "S041",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 252,
+      "start_frame": 12228,
+      "end_frame_exclusive": 12264,
+      "text": "businesses continued above.",
+      "shot": "S041",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 253,
+      "start_frame": 12296,
+      "end_frame_exclusive": 12344,
+      "text": "Imagine the coordination hidden",
+      "shot": "S042",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 254,
+      "start_frame": 12344,
+      "end_frame_exclusive": 12392,
+      "text": "under an ordinary row",
+      "shot": "S042",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 255,
+      "start_frame": 12392,
+      "end_frame_exclusive": 12416,
+      "text": "of shopfronts.",
+      "shot": "S042",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 256,
+      "start_frame": 12416,
+      "end_frame_exclusive": 12464,
+      "text": "A city street could",
+      "shot": "S042",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 257,
+      "start_frame": 12464,
+      "end_frame_exclusive": 12512,
+      "text": "look busy and familiar",
+      "shot": "S042",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 258,
+      "start_frame": 12512,
+      "end_frame_exclusive": 12560,
+      "text": "while its buildings were",
+      "shot": "S042",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 259,
+      "start_frame": 12560,
+      "end_frame_exclusive": 12584,
+      "text": "being lifted.",
+      "shot": "S042",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 260,
+      "start_frame": 12614,
+      "end_frame_exclusive": 12662,
+      "text": "Back on our street,",
+      "shot": "S043",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 261,
+      "start_frame": 12662,
+      "end_frame_exclusive": 12710,
+      "text": "the target mark is",
+      "shot": "S043",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 262,
+      "start_frame": 12710,
+      "end_frame_exclusive": 12746,
+      "text": "finally within reach.",
+      "shot": "S043",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 263,
+      "start_frame": 12746,
+      "end_frame_exclusive": 12794,
+      "text": "The house reaches its",
+      "shot": "S043",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 264,
+      "start_frame": 12794,
+      "end_frame_exclusive": 12842,
+      "text": "new position, and the",
+      "shot": "S043",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 265,
+      "start_frame": 12842,
+      "end_frame_exclusive": 12890,
+      "text": "permanent foundation takes its",
+      "shot": "S043",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 266,
+      "start_frame": 12890,
+      "end_frame_exclusive": 12938,
+      "text": "share of the load.",
+      "shot": "S043",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 267,
+      "start_frame": 12966,
+      "end_frame_exclusive": 13014,
+      "text": "Temporary lifting equipment can",
+      "shot": "S044",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 268,
+      "start_frame": 13014,
+      "end_frame_exclusive": 13062,
+      "text": "be removed as the",
+      "shot": "S044",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 269,
+      "start_frame": 13062,
+      "end_frame_exclusive": 13110,
+      "text": "support is completed and",
+      "shot": "S044",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 270,
+      "start_frame": 13110,
+      "end_frame_exclusive": 13122,
+      "text": "checked.",
+      "shot": "S044",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 271,
+      "start_frame": 13150,
+      "end_frame_exclusive": 13198,
+      "text": "He walks around the",
+      "shot": "S045",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 272,
+      "start_frame": 13198,
+      "end_frame_exclusive": 13246,
+      "text": "building, finding the same",
+      "shot": "S045",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 273,
+      "start_frame": 13246,
+      "end_frame_exclusive": 13294,
+      "text": "windows, the same roof,",
+      "shot": "S045",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 274,
+      "start_frame": 13294,
+      "end_frame_exclusive": 13330,
+      "text": "the same door.",
+      "shot": "S045",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 275,
+      "start_frame": 13330,
+      "end_frame_exclusive": 13378,
+      "text": "The house has kept",
+      "shot": "S045",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 276,
+      "start_frame": 13378,
+      "end_frame_exclusive": 13402,
+      "text": "its shape.",
+      "shot": "S045",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 277,
+      "start_frame": 13402,
+      "end_frame_exclusive": 13450,
+      "text": "Its relationship with the",
+      "shot": "S045",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 278,
+      "start_frame": 13450,
+      "end_frame_exclusive": 13486,
+      "text": "street has changed.",
+      "shot": "S045",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 279,
+      "start_frame": 13516,
+      "end_frame_exclusive": 13564,
+      "text": "Now we can see",
+      "shot": "S046",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 280,
+      "start_frame": 13564,
+      "end_frame_exclusive": 13600,
+      "text": "the whole arrangement.",
+      "shot": "S046",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 281,
+      "start_frame": 13600,
+      "end_frame_exclusive": 13636,
+      "text": "Old ground below.",
+      "shot": "S046",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 282,
+      "start_frame": 13636,
+      "end_frame_exclusive": 13684,
+      "text": "Pipes following their planned",
+      "shot": "S046",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 283,
+      "start_frame": 13684,
+      "end_frame_exclusive": 13696,
+      "text": "route.",
+      "shot": "S046",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 284,
+      "start_frame": 13696,
+      "end_frame_exclusive": 13732,
+      "text": "Fill around them.",
+      "shot": "S046",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 285,
+      "start_frame": 13732,
+      "end_frame_exclusive": 13780,
+      "text": "A new street above.",
+      "shot": "S046",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 286,
+      "start_frame": 13812,
+      "end_frame_exclusive": 13860,
+      "text": "Beside it, a building",
+      "shot": "S047",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 287,
+      "start_frame": 13860,
+      "end_frame_exclusive": 13908,
+      "text": "on a higher foundation.",
+      "shot": "S047",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 288,
+      "start_frame": 13908,
+      "end_frame_exclusive": 13956,
+      "text": "Raising the buildings and",
+      "shot": "S047",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 289,
+      "start_frame": 13956,
+      "end_frame_exclusive": 14004,
+      "text": "raising the streets were",
+      "shot": "S047",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 290,
+      "start_frame": 14004,
+      "end_frame_exclusive": 14052,
+      "text": "related jobs, but they",
+      "shot": "S047",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 291,
+      "start_frame": 14052,
+      "end_frame_exclusive": 14100,
+      "text": "did not all happen",
+      "shot": "S047",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 292,
+      "start_frame": 14100,
+      "end_frame_exclusive": 14112,
+      "text": "together.",
+      "shot": "S047",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 293,
+      "start_frame": 14144,
+      "end_frame_exclusive": 14192,
+      "text": "Some owners lifted their",
+      "shot": "S048",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 294,
+      "start_frame": 14192,
+      "end_frame_exclusive": 14240,
+      "text": "properties; others did not.",
+      "shot": "S048",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 295,
+      "start_frame": 14240,
+      "end_frame_exclusive": 14288,
+      "text": "That is why changing",
+      "shot": "S048",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 296,
+      "start_frame": 14288,
+      "end_frame_exclusive": 14336,
+      "text": "street levels could leave",
+      "shot": "S048",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 297,
+      "start_frame": 14336,
+      "end_frame_exclusive": 14384,
+      "text": "such unusual entrances behind.",
+      "shot": "S048",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 298,
+      "start_frame": 14408,
+      "end_frame_exclusive": 14456,
+      "text": "When rain returns to",
+      "shot": "S049",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 299,
+      "start_frame": 14456,
+      "end_frame_exclusive": 14504,
+      "text": "our scene, he watches",
+      "shot": "S049",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 300,
+      "start_frame": 14504,
+      "end_frame_exclusive": 14552,
+      "text": "the water instead of",
+      "shot": "S049",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 301,
+      "start_frame": 14552,
+      "end_frame_exclusive": 14576,
+      "text": "his shoes.",
+      "shot": "S049",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 302,
+      "start_frame": 14576,
+      "end_frame_exclusive": 14624,
+      "text": "It follows the surface",
+      "shot": "S049",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 303,
+      "start_frame": 14624,
+      "end_frame_exclusive": 14672,
+      "text": "toward a drain and",
+      "shot": "S049",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 304,
+      "start_frame": 14672,
+      "end_frame_exclusive": 14720,
+      "text": "onward through the modelled",
+      "shot": "S049",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 305,
+      "start_frame": 14720,
+      "end_frame_exclusive": 14732,
+      "text": "sewer.",
+      "shot": "S049",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 306,
+      "start_frame": 14748,
+      "end_frame_exclusive": 14796,
+      "text": "The improvement had a",
+      "shot": "S050",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 307,
+      "start_frame": 14796,
+      "end_frame_exclusive": 14844,
+      "text": "purpose beyond cleaner boots.",
+      "shot": "S050",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 308,
+      "start_frame": 14844,
+      "end_frame_exclusive": 14892,
+      "text": "Yet sending waste into",
+      "shot": "S050",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 309,
+      "start_frame": 14892,
+      "end_frame_exclusive": 14940,
+      "text": "the river created further",
+      "shot": "S050",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 310,
+      "start_frame": 14940,
+      "end_frame_exclusive": 14988,
+      "text": "problems; raising streets did",
+      "shot": "S050",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 311,
+      "start_frame": 14988,
+      "end_frame_exclusive": 15036,
+      "text": "not solve every challenge",
+      "shot": "S050",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 312,
+      "start_frame": 15036,
+      "end_frame_exclusive": 15084,
+      "text": "of a growing city.",
+      "shot": "S050",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 313,
+      "start_frame": 15100,
+      "end_frame_exclusive": 15148,
+      "text": "For this block, it",
+      "shot": "S051",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 314,
+      "start_frame": 15148,
+      "end_frame_exclusive": 15196,
+      "text": "made space for a",
+      "shot": "S051",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 315,
+      "start_frame": 15196,
+      "end_frame_exclusive": 15244,
+      "text": "system the old level",
+      "shot": "S051",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 316,
+      "start_frame": 15244,
+      "end_frame_exclusive": 15292,
+      "text": "could not comfortably contain.",
+      "shot": "S051",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 317,
+      "start_frame": 15316,
+      "end_frame_exclusive": 15364,
+      "text": "He goes inside and",
+      "shot": "S052",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 318,
+      "start_frame": 15364,
+      "end_frame_exclusive": 15412,
+      "text": "checks the room that",
+      "shot": "S052",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 319,
+      "start_frame": 15412,
+      "end_frame_exclusive": 15448,
+      "text": "started the mystery.",
+      "shot": "S052",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 320,
+      "start_frame": 15448,
+      "end_frame_exclusive": 15496,
+      "text": "The table is still",
+      "shot": "S052",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 321,
+      "start_frame": 15496,
+      "end_frame_exclusive": 15532,
+      "text": "beside the window.",
+      "shot": "S052",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 322,
+      "start_frame": 15564,
+      "end_frame_exclusive": 15612,
+      "text": "The shelf is still",
+      "shot": "S053",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 323,
+      "start_frame": 15612,
+      "end_frame_exclusive": 15636,
+      "text": "above it.",
+      "shot": "S053",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 324,
+      "start_frame": 15636,
+      "end_frame_exclusive": 15684,
+      "text": "The floor has travelled",
+      "shot": "S053",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 325,
+      "start_frame": 15684,
+      "end_frame_exclusive": 15732,
+      "text": "with the walls, so",
+      "shot": "S053",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 326,
+      "start_frame": 15732,
+      "end_frame_exclusive": 15780,
+      "text": "the room has not",
+      "shot": "S053",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 327,
+      "start_frame": 15780,
+      "end_frame_exclusive": 15828,
+      "text": "become taller or shorter.",
+      "shot": "S053",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 328,
+      "start_frame": 15860,
+      "end_frame_exclusive": 15908,
+      "text": "He notices an old",
+      "shot": "S054",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 329,
+      "start_frame": 15908,
+      "end_frame_exclusive": 15956,
+      "text": "muddy footprint by the",
+      "shot": "S054",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 330,
+      "start_frame": 15956,
+      "end_frame_exclusive": 16004,
+      "text": "door, then looks outside.",
+      "shot": "S054",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 331,
+      "start_frame": 16004,
+      "end_frame_exclusive": 16052,
+      "text": "The street no longer",
+      "shot": "S054",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 332,
+      "start_frame": 16052,
+      "end_frame_exclusive": 16100,
+      "text": "cuts across his view.",
+      "shot": "S054",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 333,
+      "start_frame": 16100,
+      "end_frame_exclusive": 16148,
+      "text": "This time, the house",
+      "shot": "S054",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 334,
+      "start_frame": 16148,
+      "end_frame_exclusive": 16184,
+      "text": "has come along.",
+      "shot": "S054",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 335,
+      "start_frame": 16214,
+      "end_frame_exclusive": 16262,
+      "text": "We return to the",
+      "shot": "S055",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 336,
+      "start_frame": 16262,
+      "end_frame_exclusive": 16286,
+      "text": "opening view.",
+      "shot": "S055",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 337,
+      "start_frame": 16286,
+      "end_frame_exclusive": 16334,
+      "text": "His hand reaches for",
+      "shot": "S055",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 338,
+      "start_frame": 16334,
+      "end_frame_exclusive": 16370,
+      "text": "the same handle.",
+      "shot": "S055",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 339,
+      "start_frame": 16370,
+      "end_frame_exclusive": 16418,
+      "text": "The door opens onto",
+      "shot": "S055",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 340,
+      "start_frame": 16418,
+      "end_frame_exclusive": 16466,
+      "text": "daylight, with the pavement",
+      "shot": "S055",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 341,
+      "start_frame": 16466,
+      "end_frame_exclusive": 16514,
+      "text": "waiting at the right",
+      "shot": "S055",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 342,
+      "start_frame": 16514,
+      "end_frame_exclusive": 16526,
+      "text": "height.",
+      "shot": "S055",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 343,
+      "start_frame": 16554,
+      "end_frame_exclusive": 16602,
+      "text": "He tests it with",
+      "shot": "S056",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 344,
+      "start_frame": 16602,
+      "end_frame_exclusive": 16650,
+      "text": "one careful step, then",
+      "shot": "S056",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 345,
+      "start_frame": 16650,
+      "end_frame_exclusive": 16698,
+      "text": "brings the other foot",
+      "shot": "S056",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 346,
+      "start_frame": 16698,
+      "end_frame_exclusive": 16710,
+      "text": "out.",
+      "shot": "S056",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 347,
+      "start_frame": 16710,
+      "end_frame_exclusive": 16734,
+      "text": "No climbing.",
+      "shot": "S056",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 348,
+      "start_frame": 16734,
+      "end_frame_exclusive": 16770,
+      "text": "No missing doorway.",
+      "shot": "S056",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 349,
+      "start_frame": 16798,
+      "end_frame_exclusive": 16846,
+      "text": "He turns to admire",
+      "shot": "S057",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 350,
+      "start_frame": 16846,
+      "end_frame_exclusive": 16894,
+      "text": "the house, and the",
+      "shot": "S057",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 351,
+      "start_frame": 16894,
+      "end_frame_exclusive": 16942,
+      "text": "camera moves back far",
+      "shot": "S057",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 352,
+      "start_frame": 16942,
+      "end_frame_exclusive": 16990,
+      "text": "enough to reveal the",
+      "shot": "S057",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 353,
+      "start_frame": 16990,
+      "end_frame_exclusive": 17038,
+      "text": "new foundation holding everything",
+      "shot": "S057",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 354,
+      "start_frame": 17038,
+      "end_frame_exclusive": 17086,
+      "text": "above the old ground.",
+      "shot": "S057",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 355,
+      "start_frame": 17132,
+      "end_frame_exclusive": 17180,
+      "text": "Then a hand appears",
+      "shot": "S058",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 356,
+      "start_frame": 17180,
+      "end_frame_exclusive": 17228,
+      "text": "from the next doorway,",
+      "shot": "S058",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 357,
+      "start_frame": 17228,
+      "end_frame_exclusive": 17264,
+      "text": "much lower down.",
+      "shot": "S058",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 358,
+      "start_frame": 17264,
+      "end_frame_exclusive": 17312,
+      "text": "A neighbour holds up",
+      "shot": "S058",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 359,
+      "start_frame": 17312,
+      "end_frame_exclusive": 17348,
+      "text": "a muddy boot.",
+      "shot": "S058",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 360,
+      "start_frame": 17412,
+      "end_frame_exclusive": 17460,
+      "text": "Our homeowner looks at",
+      "shot": "S059",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 361,
+      "start_frame": 17460,
+      "end_frame_exclusive": 17508,
+      "text": "the boot, the low",
+      "shot": "S059",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 362,
+      "start_frame": 17508,
+      "end_frame_exclusive": 17556,
+      "text": "door, and the waiting",
+      "shot": "S059",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 363,
+      "start_frame": 17556,
+      "end_frame_exclusive": 17580,
+      "text": "lifting tools.",
+      "shot": "S059",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 364,
+      "start_frame": 17580,
+      "end_frame_exclusive": 17628,
+      "text": "He picks up the",
+      "shot": "S059",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 365,
+      "start_frame": 17628,
+      "end_frame_exclusive": 17676,
+      "text": "measuring board and heads",
+      "shot": "S059",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 366,
+      "start_frame": 17676,
+      "end_frame_exclusive": 17688,
+      "text": "over.",
+      "shot": "S059",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 367,
+      "start_frame": 17752,
+      "end_frame_exclusive": 17800,
+      "text": "His own doorstep has",
+      "shot": "S060",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 368,
+      "start_frame": 17800,
+      "end_frame_exclusive": 17848,
+      "text": "caught up with the",
+      "shot": "S060",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 369,
+      "start_frame": 17848,
+      "end_frame_exclusive": 17860,
+      "text": "street.",
+      "shot": "S060",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 370,
+      "start_frame": 17860,
+      "end_frame_exclusive": 17908,
+      "text": "Next door, the work",
+      "shot": "S060",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 371,
+      "start_frame": 17908,
+      "end_frame_exclusive": 17956,
+      "text": "is still waiting to",
+      "shot": "S060",
+      "status": "DRAFT_NOT_AUDIO_ALIGNED"
+    },
+    {
+      "index": 372,
+      "start_frame": 17956,
+      "end_frame_exclusive": 17968,
+      "text": "begin.",
+      "shot": "S060",
       "status": "DRAFT_NOT_AUDIO_ALIGNED"
     }
   ]

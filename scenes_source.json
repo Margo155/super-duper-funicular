@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "title_ru": "Дверь выходит в тротуар",
+    "en": "He opens his front door and finds a street where the view used to be. Shoes pass at eye level. A wheel rolls past his window. He checks the ceiling, then the floor. Everything inside seems to be in its usual place. Outside, his doorway has become a hole beside the pavement. Somehow, the city has moved without taking his house along.",
+    "ru": "Он открывает входную дверь — и вместо привычного вида обнаруживает улицу. На уровне глаз проходят ботинки. Мимо окна прокатывается колесо. Он осматривает потолок, потом пол. Внутри всё вроде бы на своих местах. А снаружи дверной проём превратился в яму возле тротуара. Каким-то образом город переместился, а его дом остался позади.",
+    "actions": [
+      "Крупно: рука открывает дверь; сразу видна стенка нового тротуара.",
+      "Из комнаты: ботинки прохожих и колесо повозки на уровне лица; герой переводит взгляд.",
+      "Боковой разрез дома и улицы раскрывает две высоты, пока герой проверяет пол."
+    ],
+    "state": "STREET_HIGH_HOUSE_LOW",
+    "status": "fictional_framing"
+  },
+  {
+    "id": 2,
+    "title_ru": "Раньше: пропавший ботинок",
+    "en": "A few years earlier, getting home had involved a different kind of problem. One step into the road, and his boot stayed behind. He pulled. The mud held on. A passing cart added a splash before he finally escaped with one muddy foot. In this animated version of nineteenth-century Chicago, even a short walk could become a small expedition. And the trouble went deeper than his boot.",
+    "ru": "Несколькими годами раньше возвращение домой доставляло ему неприятности другого рода. Один шаг на дорогу — и ботинок остаётся в грязи. Он тянет, но грязь не отпускает. Проезжающая повозка добавляет брызг, прежде чем ему удаётся выбраться с одной перепачканной ногой. В нашей анимационной версии Чикаго XIX века даже короткая прогулка превращается в небольшую экспедицию. А причина скрывалась глубже, чем его ботинок.",
+    "actions": [
+      "Переход к старой отметке улицы: герой наступает в грязь, ботинок удерживается грунтом.",
+      "Комическая борьба с вязкой лужей и брызгами повозки; нога выскальзывает из ботинка намеренно.",
+      "Герой возвращается за ботинком по устойчивой доске, забирает его и снова надевает; к концу блока обе ноги обуты."
+    ],
+    "state": "OLD_GRADE",
+    "status": "fictional_action_historical_setting"
+  },
+  {
+    "id": 3,
+    "title_ru": "Почему вода не уходит",
+    "en": "Chicago stood on low, flat ground near the lake. Rain and dirty water had little slope to follow. Ditches could clog, and low spots collected what the streets needed to carry away. Our homeowner could put another board across a puddle, but the puddle would still be there. Across the city, engineers faced a larger version of the same question: where could all that water go?",
+    "ru": "Чикаго стоял на низкой равнинной местности возле озера. Дождевой и грязной воде не хватало уклона для стока. Канавы засорялись, а в понижениях скапливалось то, что следовало отводить с улиц. Наш домовладелец мог положить ещё одну доску через лужу, но сама лужа никуда не исчезала. Инженерам предстояло ответить на тот же вопрос в масштабе города: куда должна уходить вся эта вода?",
+    "actions": [
+      "Герой кладёт доску через лужу; новая вода собирается рядом.",
+      "Камера раскрывает условный разрез низкой местности и уровня воды.",
+      "Вид сверху соединяет несколько луж и канав с картой района."
+    ],
+    "state": "OLD_GRADE",
+    "status": "historical_background_S1_S2"
+  },
+  {
+    "id": 4,
+    "title_ru": "Почему одной глубокой ямы мало",
+    "en": "A sewer needs a route that carries its contents onward. Digging a deeper hole at one end does not create a downhill path all the way to the outlet. On a simple model, he pours water into a level channel. It gathers. Tilt the channel, and the water travels. The useful difference is small, but it has to continue along the route. The city needed room for that slope.",
+    "ru": "Канализации нужен путь, по которому содержимое сможет двигаться дальше. Глубокая яма в одном месте ещё не создаёт непрерывный уклон до выхода. На простой модели герой льёт воду в горизонтальный желоб. Она скапливается. Стоит наклонить желоб — и вода движется. Нужный перепад невелик, но он должен сохраняться вдоль пути. Городу требовалось место для такого уклона.",
+    "actions": [
+      "На столе условная модель желоба: вода собирается у плоского дна.",
+      "Герой меняет наклон модели; вода течёт к низкому выходу.",
+      "Наложение модели на разрез улицы показывает нехватку места для трубы и её уклона."
+    ],
+    "state": "MODEL_TABLE",
+    "status": "educational_model_not_engineering_design"
+  },
+  {
+    "id": 5,
+    "title_ru": "План провести новую улицу выше",
+    "en": "In the eighteen-fifties, engineer Ellis Chesbrough helped Chicago plan a new sewer system. Part of the answer was to raise street levels. Pipes could occupy space above the old ground, then disappear beneath fill and new pavement. On the drawing, the higher street looks like one clean line. Our homeowner follows it with his finger until it crosses the middle of his front door.",
+    "ru": "В 1850-х инженер Эллис Чесбро участвовал в разработке новой канализационной системы Чикаго. Одной из мер стало повышение уровня улиц. Трубы можно было разместить над прежней поверхностью, а затем закрыть насыпным грунтом и новым покрытием. На чертеже новая улица выглядит простой ровной линией. Герой ведёт по ней пальцем — и обнаруживает, что она пересекает середину его входной двери.",
+    "actions": [
+      "Авторская карта с подписью Ellis Chesbrough и планом 1850s; исторический человек не разыгрывает выдуманный диалог.",
+      "В разрезе возникают трубы, насыпь и новое покрытие по этапам.",
+      "Палец героя следует по линии новой отметки прямо к изображению его двери."
+    ],
+    "state": "PLAN_TO_NEW_GRADE",
+    "status": "historical_plan_S1_fictional_home"
+  },
+  {
+    "id": 6,
+    "title_ru": "Теперь загадка двери понятна",
+    "en": "The work happened in stages, over years. Different streets and properties changed at different times. Along our fictional street, the new surface gradually reaches the planned height. Now we are back at that strange doorway. His house has stayed put while the street has risen beside it. A few temporary steps restore the way out. They also make every sack, parcel, and bucket a climb.",
+    "ru": "Работы шли поэтапно и растянулись на годы. Разные улицы и здания менялись в разное время. На нашей вымышленной улице новое покрытие постепенно достигает намеченной высоты. Теперь мы снова у той странной двери. Дом остался на месте, а улица поднялась рядом. Временные ступени возвращают выход наружу. Но каждый мешок, свёрток и ведро теперь приходится поднимать по лестнице.",
+    "actions": [
+      "Сжатие времени с явной подписью YEARS OF WORK: отдельные участки поднимаются постепенно.",
+      "Повторяем композицию первой двери и раскрываем направление изменения улицы.",
+      "Герой переносит мешок по устойчивым временным ступеням; шумный комический выдох без речи."
+    ],
+    "state": "STREET_HIGH_HOUSE_LOW",
+    "status": "historical_staging_S2"
+  },
+  {
+    "id": 7,
+    "title_ru": "Поднять дом до новой улицы",
+    "en": "Property owners had another possibility: bring their buildings up to the new street. Our homeowner imagines lifting his roof, then notices the walls would have to come too. So would the floor, the windows, and the door he has just repaired. The whole building needs to rise together. He looks from the small lifting tools on the ground to the heavy house above them.",
+    "ru": "У владельцев был другой выход: поднять здания до новой отметки улицы. Наш герой представляет, как поднимает крышу, а затем понимает, что стены тоже должны последовать за ней. И пол, и окна, и недавно починенная дверь. Всё здание нужно поднимать вместе. Он переводит взгляд с небольших подъёмных приспособлений на земле на тяжёлый дом над ними.",
+    "actions": [
+      "Герой сравнивает низкую дверь с новой отметкой улицы.",
+      "Короткая явно условная мысль-схема: крыша, стены и пол образуют единый объём.",
+      "Низкий ракурс через винтовой домкрат на дом; герой оценивает масштаб."
+    ],
+    "state": "LIFT_PREPARATION",
+    "status": "historical_method_fictional_reaction"
+  },
+  {
+    "id": 8,
+    "title_ru": "Как винт превращает поворот в подъём",
+    "en": "The tool is a screw jack. Turning its mechanism produces a small upward movement under a load. A modest rise takes a much longer movement around the handle. On the model, he watches the turning part and the lifting part separately, then together. The screw provides useful mechanical advantage. It still needs effort, a firm support, and a load it can actually carry.",
+    "ru": "Это винтовой домкрат. Поворот механизма даёт небольшое перемещение вверх под нагрузкой. Для скромного подъёма рукоятка проходит гораздо более длинный путь. На модели герой рассматривает вращающуюся и поднимающуюся части сначала отдельно, затем вместе. Винт даёт выигрыш в силе. Но по-прежнему нужны усилие, надёжная опора и нагрузка, которую устройство действительно способно выдержать.",
+    "actions": [
+      "Условный настольный домкрат с явно читаемой винтовой парой, опорой и площадкой.",
+      "Разрез показывает относительное вращение винта и гайки, вызывающее осевое перемещение.",
+      "Герой поднимает небольшой демонстрационный груз; модель не является инструкцией по подъёму настоящего дома."
+    ],
+    "state": "MODEL_TABLE",
+    "status": "general_mechanics"
+  },
+  {
+    "id": 9,
+    "title_ru": "Много опор вместо одной точки",
+    "en": "A building cannot be treated like a box balanced on one corner. Its weight needs support across the structure. Timber beams and many lifting points spread the work. In a cutaway, the arrangement becomes easier to understand: the house rests on a network rather than a single magic pillar. Our homeowner follows the beams with his eyes. The little tools begin to look more convincing.",
+    "ru": "Здание нельзя поднимать как коробку, опёртую на один угол. Его вес нужно поддерживать по всей конструкции. Деревянные балки и множество точек подъёма распределяют работу. В разрезе всё понятнее: дом опирается на целую систему, а не на один волшебный столб. Наш герой прослеживает глазами расположение балок. Маленькие приспособления начинают внушать ему больше доверия.",
+    "actions": [
+      "Схематический вид одной точки опоры сменяется сетью распределённых опор.",
+      "Камера проходит через условно снятую стенку к балкам и домкратам.",
+      "Герой остаётся на устойчивой наружной площадке; взгляд ведёт по силовой схеме."
+    ],
+    "state": "SUPPORTED_PRELIFT",
+    "status": "historical_method_simplified"
+  },
+  {
+    "id": 10,
+    "title_ru": "Общий ритм",
+    "en": "The difficult part is making the lifting points agree. If one area rises much faster, the structure can be strained. The crew needs controlled movement and regular checks. In our scene, a foreman gives the signal. Hands turn, then stop. Measurements follow. Our homeowner holds a marker beside the reference line, waiting while the foreman compares it with the other lifting points.",
+    "ru": "Самое трудное — согласовать точки подъёма. Если один участок поднимется заметно быстрее, конструкция может испытывать лишние напряжения. Нужны контролируемые перемещения и регулярные проверки. В нашей постановке бригадир подаёт сигнал. Руки поворачивают механизмы и останавливаются. Следуют измерения. Герой держит отметку возле контрольной линии и ждёт, пока бригадир сравнит её с другими точками подъёма.",
+    "actions": [
+      "Бригадир жестом задаёт согласованное движение нескольким рабочим.",
+      "Крупные планы рукояток: небольшие согласованные повороты и остановка.",
+      "Герой проверяет контрольную отметку с наружной площадки; дом ещё почти на исходной высоте."
+    ],
+    "state": "LIFTING_EARLY",
+    "status": "fictional_sequence_historical_method"
+  },
+  {
+    "id": 11,
+    "title_ru": "Первый зазор",
+    "en": "At first, almost nothing seems to happen. He watches a line on the wall. Then a narrow gap appears where the building met its old support. Another check. Another small movement. The house is rising. From inside, the room still looks familiar. From outside, daylight is appearing beneath it. The same tiny change, repeated across the supports, has started moving something that looked completely immovable.",
+    "ru": "Сначала кажется, будто ничего не происходит. Герой следит за линией на стене. Затем там, где здание соприкасалось с прежней опорой, появляется узкий зазор. Ещё одна проверка. Ещё небольшое движение. Дом поднимается. Изнутри комната выглядит знакомой. Снаружи под ней появляется свет. Одинаковое небольшое изменение во множестве опор сдвинуло то, что казалось совершенно неподвижным.",
+    "actions": [
+      "Макро контрольной риски: между домом и старой отметкой появляется зазор.",
+      "Общий план показывает первый небольшой подъём всего корпуса здания.",
+      "Комната движется вместе с домом: мебель неподвижна относительно пола, за окном меняется высота."
+    ],
+    "state": "LIFTING_EARLY",
+    "status": "fictional_house_lift"
+  },
+  {
+    "id": 12,
+    "title_ru": "Проверять, а не торопиться",
+    "en": "He wants to hurry now. The new street is still well above his doorstep. But the workers keep returning to the same marks and measurements. The aim is to preserve the building while changing its height. Beams must remain supported; different parts must rise in step. He lowers his impatient hand and waits for the next signal. Progress here is measured in careful increments.",
+    "ru": "Теперь ему хочется поторопиться. Новая улица всё ещё намного выше порога. Но рабочие снова и снова возвращаются к контрольным отметкам и измерениям. Нужно сохранить здание, изменив его высоту. Балки должны оставаться на опорах, а разные части — подниматься согласованно. Герой опускает нетерпеливо поднятую руку и ждёт следующего сигнала. Здесь продвижение складывается из осторожных небольших перемещений.",
+    "actions": [
+      "Герой смотрит от порога к высокому тротуару и нетерпеливо поднимает руку.",
+      "Рабочий показывает проверку уровня; герой меняет выражение и ждёт.",
+      "Согласованный очередной небольшой подъём без опасного перекоса и выдуманной аварии."
+    ],
+    "state": "LIFTING_MIDDLE",
+    "status": "fictional_character_arc"
+  },
+  {
+    "id": 13,
+    "title_ru": "Работа продолжается день за днём",
+    "en": "Time passes across the worksite. Shadows change. Materials arrive. New supports and masonry gradually occupy the space beneath the rising house. The lift is a process, with the building supported throughout. Our homeowner starts recognising the routine. Watch the line. Wait for the signal. Check the next small gain. His doorway is slowly catching up with the pavement, and the frightening gap is becoming a new foundation.",
+    "ru": "На площадке проходит время. Меняются тени. Подвозят материалы. Поднимающийся дом постепенно окружают новые опоры и кладка. Это длительная работа, на протяжении которой здание всё время поддерживается. Герой начинает понимать порядок: следить за отметкой, ждать сигнала, проверять следующий небольшой подъём. Его дверь медленно догоняет тротуар, а пугающий зазор превращается в новое основание.",
+    "actions": [
+      "Монтаж со сменой освещения и подписью TIME COMPRESSED; не выдавать минуты за реальное время подъёма.",
+      "В разрезе кладка и временные опоры заполняют пространство под домом.",
+      "Высотная шкала постепенно приводит порог к отметке улицы; герой помогает вести журнал."
+    ],
+    "state": "LIFTING_LATE",
+    "status": "fictional_time_compression"
+  },
+  {
+    "id": 14,
+    "title_ru": "Реальный масштаб: Лейк-стрит",
+    "en": "The real Chicago projects could be much larger than our little house. In eighteen sixty, George Pullman and his partners helped raise an entire block on Lake Street. Historical accounts describe six thousand screw jacks working beneath the buildings, while businesses continued above. Imagine the coordination hidden under an ordinary row of shopfronts. A city street could look busy and familiar while its buildings were being lifted.",
+    "ru": "Реальные работы в Чикаго бывали намного масштабнее нашего маленького дома. В 1860 году Джордж Пульман с партнёрами участвовал в подъёме целого квартала на Лейк-стрит. Исторические описания упоминают шесть тысяч винтовых домкратов под зданиями, тогда как наверху продолжали работать предприятия. Представьте согласованность действий, скрытую под обычным рядом витрин. Улица могла выглядеть привычно оживлённой, пока её здания поднимались.",
+    "actions": [
+      "Явный переход к отдельной исторической иллюстрации Lake Street, 1860.",
+      "Авторская широкая реконструкция квартала и условная плотная сеть опор; число 6,000 показано подписью, не требуется моделировать все экземпляры.",
+      "Витрины и работающие лавки сверху; возвращение к нашему вымышленному дому через похожую балку."
+    ],
+    "state": "HISTORICAL_INSERT_1860",
+    "status": "documented_example_S3"
+  },
+  {
+    "id": 15,
+    "title_ru": "Дом получает новое основание",
+    "en": "Back on our street, the target mark is finally within reach. The house reaches its new position, and the permanent foundation takes its share of the load. Temporary lifting equipment can be removed as the support is completed and checked. He walks around the building, finding the same windows, the same roof, the same door. The house has kept its shape. Its relationship with the street has changed.",
+    "ru": "На нашей улице контрольная отметка наконец совсем близко. Дом достигает нового положения, и постоянное основание принимает нагрузку. По мере завершения и проверки опоры временное подъёмное оборудование убирают. Герой обходит дом: те же окна, та же крыша, та же дверь. Форма дома сохранилась. Изменилось его положение относительно улицы.",
+    "actions": [
+      "Крупно: отметки высоты совпадают; бригадир подтверждает результат жестом.",
+      "Разрез показывает завершённое постоянное основание и передачу нагрузки до удаления временных деталей.",
+      "Обход камеры вокруг дома подчёркивает прежнюю геометрию и новую высоту."
+    ],
+    "state": "HOUSE_HIGH_FOUNDATION_COMPLETE",
+    "status": "fictional_completion_historical_method"
+  },
+  {
+    "id": 16,
+    "title_ru": "Что теперь находится под улицей",
+    "en": "Now we can see the whole arrangement. Old ground below. Pipes following their planned route. Fill around them. A new street above. Beside it, a building on a higher foundation. Raising the buildings and raising the streets were related jobs, but they did not all happen together. Some owners lifted their properties; others did not. That is why changing street levels could leave such unusual entrances behind.",
+    "ru": "Теперь видна вся система. Внизу — прежняя поверхность. По намеченному пути проходят трубы. Вокруг них — насыпной грунт. Выше — новая улица. Рядом — дом на более высоком основании. Подъём зданий и повышение улиц были связанными работами, но не происходили повсюду одновременно. Одни владельцы поднимали свои дома, другие — нет. Поэтому изменение уровня улиц оставляло после себя такие необычные входы.",
+    "actions": [
+      "Читаемый общий разрез с четырьмя слоями; дом и улица имеют независимые состояния.",
+      "Соседние здания показывают разные этапы работ, без единого подъёма всего города.",
+      "Камера сравнивает обычный вход и соседнюю дверь ниже тротуара."
+    ],
+    "state": "MIXED_NEIGHBOURHOOD",
+    "status": "historical_context_S1_S2"
+  },
+  {
+    "id": 17,
+    "title_ru": "Дождь проверяет новую улицу",
+    "en": "When rain returns to our scene, he watches the water instead of his shoes. It follows the surface toward a drain and onward through the modelled sewer. The improvement had a purpose beyond cleaner boots. Yet sending waste into the river created further problems; raising streets did not solve every challenge of a growing city. For this block, it made space for a system the old level could not comfortably contain.",
+    "ru": "Когда в нашей истории снова начинается дождь, герой следит за водой, а не за обувью. Она идёт по поверхности к водоприёмнику, затем — по показанной в разрезе канализации. Польза была важнее чистых ботинок. При этом сброс отходов в реку создавал новые проблемы: повышение улиц не решило всех трудностей растущего города. Но здесь появилось место для системы, которую было трудно разместить на прежней отметке.",
+    "actions": [
+      "Первые капли на новой улице; герой спокойно наблюдает за небольшим стоком.",
+      "Разрез показывает непрерывный уклон и путь воды; схема обозначена как упрощённая.",
+      "Короткая карта показывает реку и необходимость дальнейших решений, без сцены чудесного очищения."
+    ],
+    "state": "NEW_GRADE_RAIN",
+    "status": "historical_limits_S1_educational_model"
+  },
+  {
+    "id": 18,
+    "title_ru": "Та же комната на другой высоте",
+    "en": "He goes inside and checks the room that started the mystery. The table is still beside the window. The shelf is still above it. The floor has travelled with the walls, so the room has not become taller or shorter. He notices an old muddy footprint by the door, then looks outside. The street no longer cuts across his view. This time, the house has come along.",
+    "ru": "Он возвращается в комнату, с которой началась загадка. Стол всё ещё возле окна. Над ним — та же полка. Пол перемещался вместе со стенами, поэтому комната не стала ни выше, ни ниже. Герой замечает старый грязный след возле двери и смотрит наружу. Теперь улица больше не пересекает вид из окна. На этот раз дом поднялся вслед за ней.",
+    "actions": [
+      "Точное повторение внутренней композиции начала: стол, окно, полка сохраняют взаимное положение.",
+      "Герой замечает старый грязный след возле двери; обе ноги и надетая обувь остаются целыми.",
+      "Из окна видна новая нормальная линия улицы; камера делает мягкий параллакс."
+    ],
+    "state": "HOUSE_HIGH_INTERIOR",
+    "status": "fictional_payoff"
+  },
+  {
+    "id": 19,
+    "title_ru": "Снова открываем ту же дверь",
+    "en": "We return to the opening view. His hand reaches for the same handle. The door opens onto daylight, with the pavement waiting at the right height. He tests it with one careful step, then brings the other foot out. No climbing. No missing doorway. He turns to admire the house, and the camera moves back far enough to reveal the new foundation holding everything above the old ground.",
+    "ru": "Мы возвращаемся к начальному ракурсу. Рука тянется к той же ручке. Дверь открывается на свет, и тротуар оказывается на нужной высоте. Герой осторожно делает шаг, затем выходит второй ногой. Никаких лестниц и пропавшего выхода. Он оборачивается к дому, а камера отступает настолько, чтобы показать новое основание над прежней поверхностью.",
+    "actions": [
+      "Повтор движения руки и открытия двери из первого плана с тем же фокусным расстоянием.",
+      "Герой выходит на новую улицу: последовательный контакт каждой стопы без скольжения.",
+      "Отъезд показывает дом и новый цоколь; улыбка и короткая живая пауза."
+    ],
+    "state": "HOUSE_AND_STREET_HIGH",
+    "status": "fictional_resolution"
+  },
+  {
+    "id": 20,
+    "title_ru": "Очередь соседнего дома",
+    "en": "Then a hand appears from the next doorway, much lower down. A neighbour holds up a muddy boot. Our homeowner looks at the boot, the low door, and the waiting lifting tools. He picks up the measuring board and heads over. His own doorstep has caught up with the street. Next door, the work is still waiting to begin.",
+    "ru": "Тут из соседнего дверного проёма, намного ниже улицы, появляется рука. Сосед поднимает грязный ботинок. Наш герой смотрит на ботинок, низкую дверь и подготовленные подъёмные инструменты. Берёт измерительную рейку и идёт к соседу. Его собственный порог уже догнал улицу. В соседнем доме работа только предстоит.",
+    "actions": [
+      "Из низкой соседней двери поднимается рука с ботинком; герой замечает знакомую проблему.",
+      "Он берёт рейку с устойчивой стойки и подходит к соседу.",
+      "Общий план двух домов на разных уровнях; финальное выражение и естественный уход звука без заставки."
+    ],
+    "state": "MIXED_NEIGHBOURHOOD",
+    "status": "fictional_comic_callback"
+  }
+]
