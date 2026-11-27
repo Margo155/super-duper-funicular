@@ -1,15 +1,39 @@
 {
-  "status": "PASS",
-  "test_spoken_words": 47,
-  "full_spoken_words": 195,
-  "test_is_exact_prefix_of_full_script": true,
-  "draft_caption_words_match_voiceover": true,
-  "caption_blocks": 18,
-  "all_caption_times_within_15s": true,
-  "hero_sha256": "78bda2ca844070a537e664fd892054ef419b04de71b8be3fc25240c69be0641a",
-  "rendered_video_included": false,
-  "recorded_voice_included": false,
-  "target_duration_s": 15,
-  "target_fps": 30,
-  "target_frames": 450
+  "package_kind": "production_handoff_not_rendered_episode",
+  "episode": 2,
+  "new_episode_rendered": false,
+  "new_episode_recorded_voice_included": false,
+  "approved_reference_video_included": true,
+  "source_fact_check_date": "2026-11-26",
+  "spoken_words": 153,
+  "narration_hash_verified": true,
+  "length_estimate": {
+    "seconds": 53.07692307692308,
+    "planned_wpm": 195,
+    "non_spoken_seconds": 6,
+    "recorded_performance": false
+  },
+  "storyboard_blocks": 11,
+  "draft_caption_events": 44,
+  "draft_captions_match_all_spoken_words": true,
+  "captions_are_audio_aligned": false,
+  "nominal_duration_seconds": 54,
+  "nominal_frames_at_30fps": 1620,
+  "validator_smoke_test": {
+    "reference_only": true,
+    "status": "passed",
+    "video_dimensions": [
+      1080,
+      1920
+    ],
+    "decoded_frames": 450
+  },
+  "review_sheet_smoke_test": {
+    "reference_only": true,
+    "decoded_frames": 450,
+    "sheets": 8,
+    "full_coverage": true
+  },
+  "python_scripts_compile": true,
+  "manifest_excludes_itself": true
 }

@@ -1,0 +1,18 @@
+{
+  "verdict": "deliver",
+  "wordCount": 153,
+  "characterCount": 860,
+  "spokenTextSha256": "49f28a663d1740c887d56b834f8b511842383f5f7bdb9b9fb81b00a055374804",
+  "estimatedDurationSeconds": 53.07692307692308,
+  "wordsPerMinute": 195,
+  "duration": {
+    "wordBudget": 156,
+    "withinLimit": null,
+    "withinTolerance": true,
+    "differenceSeconds": -0.9230769230769198
+  },
+  "tokenizationVersion": "unicode-alphanumeric-apostrophe-hyphen-v2",
+  "_credits": {
+    "used": 0
+  }
+}

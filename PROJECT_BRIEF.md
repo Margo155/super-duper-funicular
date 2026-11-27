@@ -1,105 +1,64 @@
-# Oddplot — production brief, episode 001 test
+# Oddplot — Episode 002
 
-## Brand and scope
+## Result and scope
 
-- Channel: **Oddplot**.
-- Tagline: **Small Stories. Unexpected Turns.**
-- Brand colours: midnight navy #101A32, tangerine orange #FF870D, ivory-white.
-- Audience: general-audience English-language curious storytelling, history,
-  inventions, science and surprising explanations.
-- Full episode: **They Flooded This Vessel on Purpose**.
-- Current production: opening **15 seconds only**; the full episode is context.
-- Output: portrait 9:16, 30 fps, 450 frames. Render a 540x960 preview first;
-  1080x1920 is a later/final-resolution target when practical.
+Russian subject: **Монетка, которая ускоряет огромные часы**.
+Working English title: **A Penny Makes This Giant Clock Run Faster**.
+Produce the complete English-language Short. The episode 001 V3 technical test was accepted as the continuity reference; a fourth test of that old episode is not requested.
 
-## The approved hero and the new body
+Master format: 1080x1920, square pixels, progressive, 30 fps, H.264 MP4 with AAC audio. Nominal storyboard: 54.00 seconds / 1620 frames. The measured text has 153 spoken words: at a PLANNED 195 words/minute plus six seconds of visual pauses, the estimate is 53.08 seconds. This is not a recorded performance. Match the final cut to actual voice; 50–60 seconds is acceptable. All final times must fall on the 30 fps frame grid.
 
-`assets/hero_reference.png` is the approved avatar and authoritative reference
-for the head: ivory round face, dark side-swept hair, dark oval eyes, raised
-expressive eyebrow, small curious smile and simple outlined hands. Read the
-actual image; a prose description alone is insufficient for identity matching.
+## Continuity and appearance
 
-The avatar does not define a complete standing body. For this test, use a
-clearly identified working body design: simple navy torso, thin dark limbs,
-small dark shoes and an orange life jacket. Keep proportions consistent across
-shots. Face and hair should remain recognisable. The orange O ring belongs to
-the channel icon; it does not need to travel with the character in the story.
+- Channel: Oddplot. Tagline: Small Stories. Unexpected Turns.
+- Brand accents: midnight navy #101A32, orange #FF870D, ivory. These do not replace natural lighting or restrict every environment to a single colour.
+- Head identity: assets/hero_reference.png. Body, outline, footwear and expressions: assets/continuity/ approved V3 video and extracted PNGs. These are supplied in this package; do not assume another chat is accessible.
+- Same ivory rounded face, dark swept hair with tuft, dark oval eyes, navy clothing, orange vest with belt, slim dark limbs and small dark shoes. Keep the existing vest design for continuity; do not redesign the body or add a helmet, moustache or realistic human hands.
+- The hero plays an original fictional clock keeper for a visual reconstruction. He is not a named historical person. Third-person narration; lip-sync is not required. Mouth shapes convey reaction rather than following every narrator phoneme.
+- Reuse the approved rig if its source is present. Otherwise build a flat articulated rig from these references. Link each shoe to its foot/leg assembly; a planted shoe and its ankle may not separate when a knee bends.
+- assets/continuity/ODDPLOT_APPROVED_TEST_001_V3.mp4 is a visual/voice reference, not footage to paste into episode 002. Do not carry the ship, sea, life-saving context or sideways sink into the clock episode.
 
-The hero and other human figures are original fictional representations of
-crew or witnesses. They do not impersonate named real researchers. Narration
-is in the third person; visible lip-sync is not required for this test.
+## Set and props
 
-## Image construction
+One economical 3D clock mechanism room inspired by Elizabeth Tower: pale stone/plaster walls, dark painted metal frame, brass/steel gears, clock dial visible from inside, timber or stone floor and warm directional window light. Show believable scale and moving connected parts without claiming an exact engineering survey.
 
-- Volumetric ocean environment, deck, railings, valve and interior sink.
-- Flat outlined 2D mascot on a plane or a genuinely flat rig inside that 3D scene.
-- Actual camera translation/parallax and consistent perspective.
-- Feet attached to the correct local deck surface. Use local coordinates or a
-  foot/ground constraint during hull motion; avoid shoe sliding and floating.
-- Directional late-afternoon sunlight, cooler ambient fill and legible face.
-- Soft, coherent contact shadows under the shoes and cast shadows on props.
-- Navy/orange are branding accents; sea and sky can use natural blues.
-- A light ocean surface with a simple animated wave representation is enough.
-  Keep geometry and materials economical; a heavy fluid simulation is unnecessary.
-- Model FLIP as the distinctive long, narrow platform with an inhabited end,
-  not as a cruise liner or a generic cargo ship. Use the official references
-  in FACTS_AND_SOURCES.md if geometry needs clarification.
+The real pendulum extends into a shaft below the room: show its upper section, fixed pivot and coin shelf, with a guarded cutaway/educational view for the lower portion. Consult the official virtual tour and Royal Mint Museum photo links in FACTS_AND_SOURCES.md. Do not substitute a tabletop grandfather clock for the Westminster mechanism.
 
-## Opening story
+Model a small shelf attached to the pendulum's upper visible assembly, above its main lower mass. Coins ride the shelf as the pendulum moves; they are not floating independently. Use several consistent old pre-decimal British pennies, not modern US cents or current UK pennies. A modest bronze coin with a simple original period-inspired relief is sufficient; do not invent a specific rare date or claim an exact numismatic replica.
 
-Witnesses mistake controlled deployment for a sinking vessel. Crew deliberately
-fill ballast tanks. The stern descends and the bow rises. A sideways sink looks
-like a construction mistake. The test ends before the complete explanation.
-The complete 90-degree transformation and science explanation belong later
-in the full episode and should not be forced into these first 15 seconds.
+Minimum useful props: connected pendulum assembly and shelf, a short coin stack, a rigged coin in the hero's hand, two or three meshing gear pairs, recognisable clock dial, keeper's reference watch/logbook, an explanatory graphic for effective length, and a 24-hour rate comparison. Big Ben is the bell; the Great Clock is the mechanism. The bell can be omitted entirely.
 
-Exterior shots keep the ocean horizon level while the platform pitches.
-The inhabited part stays dry; water enters separate ballast tanks. Use a modest
-early tilt in the opening. The real operation took approximately half an hour;
-the later full-episode transformation must communicate that time compression.
+## Composition, motion and light
 
-## Narration and sound
+- Motivated dolly/push/side move with real parallax. Static set dressing is fine; the main action must animate. Avoid a single still with a zoom.
+- Macro coin opening, medium hero action, wide mechanism, close tray, simplified explanatory view, daily-rate graphic, return to keeper, macro-to-wide closing callback. Detailed anchors are in STORYBOARD.md.
+- Feet stay attached to the fixed room floor. Use small weight shifts and blinks; remove automatic looping jumps. Hand follows the coin to the moving shelf, releases on contact, then withdraws.
+- Connect gears with opposite rotation at each external mesh; no interpenetrating teeth or independently random rotations. An educational simplified linkage is acceptable. Do not label it an exact reproduction of Denison's escapement.
+- Warm side light, cool gentle fill, clean highlights on coins, readable ivory face, coherent floor/contact shadows. Use denoising and sufficient quality to avoid the grain of episode 001 V1. Do not hide details in glare.
 
-Use the exact text in `audio/TEST_15S_VOICEOVER.txt`.
-It has 47 spoken words by the preparation tool's tokenization. At a planned
-220 words/min, spoken duration is about 12.82 seconds, leaving about 2.18
-seconds in a 15-second edit for pauses and visual emphasis. This is an estimate,
-not a timed recording. Fit the cut to the actual TTS output.
+## Narration, timing and sound
 
-Voice: clear English, conversational, curious, light irony; readable consonants,
-no trailer shouting. A male or female narrator is acceptable for the technical
-test; record the choice in RENDER_NOTES.md so the owner can approve a permanent
-channel voice later. No real-person voice clone is requested.
+Use audio/VOICEOVER_EN.txt exactly. Voice should be curious, clear and conversational, with room for the physical explanation and the phrase 'two fifths of a second'. Reuse episode 001's actual narrator/voice ID if its settings exist in the production project. The included V3 audio is a continuity reference, not an authorisation for voice cloning. If that ID is unavailable, choose an already available suitable English voice and record the choice.
 
-The source text is not an existing audio file. Use available TTS or an already
-authorised service. State if the voice is a rough offline placeholder. If no
-usable voice is available, preserve the scene and name the missing dependency;
-do not declare the audiovisual test complete.
+The included text is not a recording of episode 002. Generate/record it during production. Export a clean voice track separately. Add a restrained mechanical ambience, soft coin-on-metal clicks, and ticking compatible with the real two-second beat. No rapid ticking change after a penny is added. Optional quiet music should leave the words intelligible.
 
-Background: restrained ocean wash, a valve click and gentle water noise.
-Keep these below intelligible narration. A short comic accent can accompany
-the sideways sink. Music is optional for the technical test and must not
-obscure speech. Keep an audio-only narration export.
+Allow approximately six seconds total for coin contact, explanatory graphics and the closing expression, distributed through the edit. These are not six seconds of empty silence. Keep the scene alive during holds.
 
-## Captions
+## Captions and callouts
 
-- English only; white bold text with a dark stroke.
-- Short groups, typically 1–4 words, approximately centred around 70% of frame
-  height, adjusted for face/prop visibility and mobile UI.
-- Straight horizontal baseline, consistent size and no skew.
-- `subtitles/TEST_15S_DRAFT.srt` is a provisional schedule. Align it to the
-  actual narration before delivering a file labelled final.
+English, 1–4 words per caption, white bold with dark stroke, straight horizontal baseline. At 1080x1920, begin with about 52–60 px type and 4–5 px stroke; fit the actual font and width. Keep essential text within x=0.10–0.88 of frame, centred around y=0.72, rather than V3's low ~0.86 position. Move the hero/props within composition so captions do not obscure the hand/coin or important expression.
 
-## Deliverables
+Callouts are separate from spoken subtitles: '+0.4 s / day', '24 HOURS', 'TIME COMPRESSED', 'SIMPLIFIED MODEL', 'DIFFERENCE EXAGGERATED', 'ROD LENGTH UNCHANGED', '5 tonnes'. Use only the ones called for by the shot. Do not show metres of rod shortening or a suddenly spinning clock face. Subtitle source and schedule are drafts until aligned to the actual voice.
 
-1. `TEST_001_15s.mp4`, encoded portrait video with audible English narration.
-2. `TEST_001_VOICEOVER.wav` or another clearly identified audio format.
-3. `TEST_001_SUBTITLES.srt`, aligned to actual narration.
-4. Four control frames corresponding to storyboard shots.
-5. Editable original scene/project, script/code, required assets and a repeatable
-   render/export command.
-6. `RENDER_NOTES.md`: installed tools/versions, actual renderer, TTS/voice,
-   dimensions, duration, frame count, quality settings and limitations.
+## Required output
 
-Use the current project output folder and save important source changes in its
-version history. Keep the original imported reference image unchanged.
+1. output/EPISODE_002_FINAL.mp4 — complete narrated Short, actual 1080x1920 and 30 fps.
+2. output/EPISODE_002_VOICEOVER.wav — clean narration, preferably 48 kHz PCM; retain the native export too if converted.
+3. output/EPISODE_002_SUBTITLES.srt — final audio-aligned short caption groups.
+4. output/control_frames/ — one representative frame from each of the 11 storyboard blocks.
+5. output/review_sheets/ — all frames covered, 60 frames per sheet, final partial sheet if required.
+6. source/ — editable scene/rig, scripts, materials, needed assets and exact render/edit commands.
+7. output/QA_REPORT.json and output/QA_AUDIO_CHECK.txt, plus VISUAL_QA.md with actual checks and corrections.
+8. RENDER_NOTES.md — renderer/version, voice/ID, timing, resolution, frame count, settings, limitations, source paths and rerender command.
+
+Do not publish. Report the result honestly if a required renderer or speech dependency is missing, while preserving completed source work.

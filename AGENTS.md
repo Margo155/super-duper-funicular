@@ -1,30 +1,15 @@
-# Oddplot production project
+# Oddplot — Episode 002 production instructions
 
-- Communicate with the owner in Russian. Narration, subtitles and in-scene text
-  are English unless the owner changes this.
-- Current task: produce only the first 15 seconds of episode 001. Keep the
-  approved full script intact as context.
-- Read PROJECT_BRIEF.md and TEST_15S_STORYBOARD.md before implementation.
-  Inspect assets/hero_reference.png. Consult STYLE_BIBLE.md for the reference
-  analysis; the owner-specific PROJECT_BRIEF.md takes precedence for branding.
-- Create a reproducible 3D scene with a flat 2D mascot, real perspective,
-  camera motion, coherent lighting and grounded feet. Preserve source code,
-  scene files, assets and a render command.
-- Confirm the actual render and speech tools available. Use a light scene
-  and render a small technical sample before the complete test. Continue
-  autonomously to the requested result when the tools work.
-- Narration is supplied as text; no recorded voice or cloned voice is attached.
-  Use a suitable available English narrator. Identify the actual TTS/voice.
-- Never claim a static image, a camera pan over a still, a mute video, a planned
-  render or a text script is the completed requested audiovisual test.
-- Final test: 15 seconds, 30 fps, portrait 9:16, 450 frames. Preview resolution
-  540x960 is acceptable for evaluation; 1080x1920 is the quality target when
-  feasible. State the resolution actually delivered.
-- Time estimates in the storyboard are provisional. Align the cut and captions
-  to the actual narration, preserving the supplied spoken words.
-- Check duration, dimensions, frame count, audio presence, subtitle timing,
-  identity consistency and foot contact before delivery.
-- Save source and outputs durably in the project. Do not publish or upload to
-  a public channel. Do not add paid services without an agreed budget.
-- Report real blockers precisely and preserve useful completed work. No extra
-  approval is needed to perform the reversible production steps already requested.
+- This package is a production handoff. When asked to produce it, create the COMPLETE second episode, not another 15-second test. Authoring this handoff does not mean an episode has already been rendered.
+- Read PROJECT_BRIEF.md, EPISODE_002_SCRIPT.md, STORYBOARD.md, FACTS_AND_SOURCES.md and CONTINUITY_AND_QA.md. Inspect assets/hero_reference.png, the three continuity PNGs, and the approved V3 reference MP4.
+- Keep episode 001 and its outputs intact. Work in a separate episode_002 source/output directory. Reuse an existing approved rig, renderer and narrator when actually available; a reference MP4 is not an editable rig.
+- Owner communication: Russian. Spoken narration, subtitles and in-scene labels: English. Use audio/VOICEOVER_EN.txt verbatim.
+- Produce a real volumetric scene with a flat 2D mascot, camera parallax, coherent light and shadows. Shoes belong to the legs throughout all motion. Keep the character recognisable across every shot.
+- Target 1080x1920, 30 fps, approximately 54 seconds / nominally 1620 frames. Voice comes first; adapt the provisional edit inside 50–60 seconds, at a whole number of frames, without dropping words or rushing the explanation. Report the actual duration and frame count.
+- Check installed render, edit and speech tools; install permitted dependencies if needed. A short local render/voice check is allowed as an implementation step. Continue to the complete requested episode without stopping for approval of routine reversible work.
+- Do not invoke paid services without an agreed budget. Do not clone a real person's voice. Preserve any existing authorised voice ID when available and document the actual voice used.
+- Pennies fine-tune the rate; they do not power the clock, shorten the rod physically, or cause a visible jump of the hands. A one-penny rate change is about +0.4 seconds per day. Read the physics guardrails before animating.
+- Provisional SRT and timings are not final audio alignment. Generate and align final captions to the actual recorded/TTS words.
+- Run the included technical validator and create full-coverage review sheets. Visually check feet, joints, hands/coin contact, identity and the mechanism. The validator does not prove visual correctness.
+- Deliver the audiovisual MP4, clean narration, aligned SRT, 11 shot control frames, review sheets, editable scene/code/assets, repeatable render commands, QA outputs and RENDER_NOTES.md. State real limitations. A still, silent video or unrendered scene is not the completed episode.
+- No publication, channel upload or external messages are part of this task.

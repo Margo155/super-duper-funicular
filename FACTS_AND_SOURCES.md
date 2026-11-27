@@ -1,52 +1,68 @@
-# Episode 001 — fact / staging boundary
+# Facts, source map and animation guardrails
 
-## Documented basis
+Checked for this handoff: 26 November 2026. These are paraphrased factual notes, not a licence to reuse the sources' photographs, audio or narration.
 
-FLIP was a non-propelled manned research platform, shaped like a long narrow
-vessel in its horizontal orientation. It was towed to location, then turned
-90 degrees by controlled ballast changes. The stern extended about 300 ft
-(91 m) below the surface. Its spar-buoy geometry made it much less responsive
-to surface waves than an ordinary ship. It was not perfectly immobile.
+## Primary and official references
 
-- Scripps overview: https://scripps.ucsd.edu/ships/flip
-- Scripps technical details: https://scripps.ucsd.edu/ships/flip/technical
+### S1 — UK Parliament: Great Clock facts
+https://www.parliament.uk/about/living-heritage/building/palace/big-ben/facts-figures/great-clock-facts/
 
-Early tests prompted reports to the Coast Guard from people who thought they
-were seeing a vessel sink. This anecdote is attributed to engineer Steve
-St. Martin's interview. Do not adopt the interview's inconsistent total hull
-length; use Scripps geometry for modelling.
+Supports: four clock dials; mechanism about five tonnes; pendulum physical length 4.4 m; a beat lasts two seconds; adding an old pre-decimal penny gives approximately +0.4 seconds per 24 hours. Do not confuse that with a 0.4-second correction per swing.
 
-- WHOI interview: https://www.divediscover.whoi.edu/archives/expedition5/interviews/stmartin.html
+### S2 — UK Parliament: Great Clock adjustments, 25 August 2015
+https://www.parliament.uk/business/news/news-by-year/2015/august/great-clock-adjustments/
 
-Crew wore life jackets, held assigned positions and prepared to step onto a
-surface that had previously been a bulkhead. Bunks and other fittings could
-swivel; there were sinks arranged for the two orientations. The occupied
-spaces remained usable and dry. The complete transition took roughly half
-an hour, with faster movement toward the end.
+Supports adjustment through old penny weights and the change in rate when they are added/removed. The text describes reducing pendulum length; our spoken explanation uses **effective** length. It does not show someone sawing or telescoping the rod. Do not present the article's dated accuracy measurements as a measurement made today.
 
-- Firsthand crew account, 2017: https://rvsallyride.ucsd.edu/2017/03/20/report-from-the-flip/
+### S3 — UK Parliament: Audio Transcripts
+https://www.parliament.uk/visiting/online-tours/virtualtours/bigben-tour/big-ben-podcast/
 
-Compressed air expelled water from ballast tanks to return FLIP to horizontal.
+The clock-keeper interview describes adding a penny to speed the rate and removing one to slow it. It also identifies Big Ben as the Great Bell. We paraphrase the practice; no interview quotation or original recording is included or requested for reuse.
 
-- Smithsonian: https://ocean.si.edu/human-connections/exploration/flip-floating-instrument-platform
+### S4 — UK Parliament: Elizabeth Tower virtual tour
+https://virtualtours-assets.parliament.uk/elizabeth-tower/index.html
 
-## Original staged characters
+Mechanism Room / Pendulum / Clock mechanics' log book: layout and mechanical context; top of the pendulum visible in the room, remainder below in a shaft; coins used on the pendulum. Use as geometric guidance, not as an exact as-built model specification. Different official pages give different bob masses, so the episode does not state the bob's weight.
 
-Our mascot is a fictional member of the animated crew. The witness inset is a
-fictional visual representation of the documented report anecdote. Their facial
-expressions, exact gestures and positions are staging choices, not claims about
-specific real individuals. Narration contains no invented direct historical quote.
+### S5 — Royal Mint Museum: 101 Uses of Coins
+https://www.royalmintmuseum.org.uk/podcast/101/
 
-## Physical continuity
+Contains a photograph of coins on the pendulum shelf and explains the use of pre-decimal coins. Direct photograph reference for inspection:
+https://www.royalmintmuseum.org.uk/siteassets/podcast/pendulum-big-ben.jpg
 
-- Ballast tanks fill; the habitable end stays dry.
-- The stern lowers and the bow rises. Exterior ocean horizon stays horizontal.
-- In the opening, show only the beginning of the tilt. Save the entire upright
-  transformation for the later full episode.
-- Empty swivelling bunks and duplicated/rotatable fittings explain how rooms
-  work in both orientations. Crew are at appropriate outside stations during
-  the main transition, not casually walking through a flooded cabin.
-- Stable means substantially reduced motion. Preserve some small response to
-  waves; do not make the platform a physically fixed tower planted on the seabed.
-- The sinking / recovery is a controlled historical operating procedure, not
-  an uncontrolled emergency invented for the episode.
+The museum marks the account of a keeper forgetting weights as something thought to have happened. That origin anecdote is omitted from the factual narration. Do not invent dialogue, a documented first inventor, a rare coin date or a price paid for the coins.
+
+### S6 — OpenStax, University Physics Volume 1, §15.4 Pendulums
+https://openstax.org/books/university-physics-volume-1/pages/15-4-pendulums
+
+Physical pendulum model: for small swings, T = 2*pi*sqrt(I/(M*g*d)), where I is moment of inertia about the pivot, M is mass, and d is pivot-to-centre-of-mass distance. Equivalent simple-pendulum length is L_eff = I/(M*d). The real clock has a distributed mass, escapement and corrections; it is not a point bob on a massless string.
+
+## What our explanation means
+
+For a small coin of mass m at distance r below the pivot:
+
+- I becomes I + m*r^2.
+- M*d becomes M*d + m*r.
+- L_eff becomes (I + m*r^2)/(M*d + m*r).
+- When 0 < r < L_eff, L_eff decreases and the period shortens. Position and mass distribution matter; adding weight anywhere does not always make a pendulum faster.
+
+This algebra is an explanatory inference from the physical-pendulum equation, not a measured reconstruction of this clock's exact geometry. Animate a labelled simplified model. Do not claim a measured coin-shelf height, a measured centre-of-mass shift or a physical rod shortened by a visible amount. A simple centre-of-mass-only rule is insufficient for arbitrary rigid pendulums.
+
+The documented +0.4 s/day is a rate increment relative to the previous setting, not an absolute accuracy guarantee. A clock already running fast would become faster if another penny were added. The keeper selects the direction after checking the rate.
+
+## Numerical animation checks
+
+- Approximate full period: 4 s (two seconds per beat / half cycle). Thus about 21,600 full cycles in a day.
+- Relative rate increment: 0.4 / 86400 = 0.00000462963, about 4.63 parts per million.
+- For a 4-second model cycle, the corresponding shortened period is 4 / (1 + 0.4/86400), about 3.99998148 s. This is roughly 18.5 microseconds difference per full cycle.
+- Those calculations are educational consequences of the documented rate, not a measurement of the actual escapement.
+- The change must NOT become a dramatic faster swing, a spinning clock face, a larger swing amplitude, a leap forward in time, or a difference plainly visible after one normal swing.
+- To show accumulated gain, label a 24-hour comparison TIME COMPRESSED; show +0.4 s / day. If comparing phases graphically at a larger scale, label DIFFERENCE EXAGGERATED.
+
+## Staging versus documented fact
+
+Documented: coin adjustment practice, direction of rate change, approximate daily increment, four faces, five-tonne mechanism, pendulum timing.
+
+Original staging: our mascot acting as a keeper, room dressing, specific gestures, camera paths, explanatory overlays and the order of demonstrations. They are not a reconstruction of a named person's particular working day. No claim of sabotage, clock failure, a miraculous instant repair or a historical conversation is needed.
+
+No source images or original interview audio are packaged as reusable media. The reference URLs support factual/geometric inspection. Create original 3D geometry, diagrams and sound, and retain any asset licences actually used.
