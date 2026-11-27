@@ -1,0 +1,176 @@
+1
+00:00:00,100 --> 00:00:01,467
+To make this enormous
+
+2
+00:00:01,467 --> 00:00:02,833
+clock run faster, its
+
+3
+00:00:02,833 --> 00:00:04,200
+keepers add a penny.
+
+4
+00:00:04,500 --> 00:00:05,767
+If it starts running
+
+5
+00:00:05,767 --> 00:00:07,067
+too fast, they take
+
+6
+00:00:07,067 --> 00:00:07,700
+one away.
+
+7
+00:00:08,000 --> 00:00:08,967
+Inside London's Elizabeth
+
+8
+00:00:08,967 --> 00:00:10,267
+Tower, huge gears drive
+
+9
+00:00:10,267 --> 00:00:11,233
+four clock faces.
+
+10
+00:00:11,233 --> 00:00:12,533
+Their timing depends on
+
+11
+00:00:12,533 --> 00:00:13,500
+a swinging pendulum.
+
+12
+00:00:13,800 --> 00:00:15,100
+And attached to that
+
+13
+00:00:15,100 --> 00:00:16,400
+pendulum is a little
+
+14
+00:00:16,400 --> 00:00:17,667
+tray of old British
+
+15
+00:00:17,667 --> 00:00:18,000
+pennies.
+
+16
+00:00:18,300 --> 00:00:19,667
+The trick is where
+
+17
+00:00:19,667 --> 00:00:20,700
+the coins sit.
+
+18
+00:00:21,000 --> 00:00:22,267
+Adding a coin there
+
+19
+00:00:22,267 --> 00:00:23,533
+changes how the pendulum's
+
+20
+00:00:23,533 --> 00:00:24,467
+weight is distributed.
+
+21
+00:00:24,467 --> 00:00:25,733
+It behaves as if
+
+22
+00:00:25,733 --> 00:00:26,967
+it were slightly shorter,
+
+23
+00:00:26,967 --> 00:00:28,233
+so each swing takes
+
+24
+00:00:28,233 --> 00:00:29,500
+a little less time.
+
+25
+00:00:29,800 --> 00:00:31,167
+The metal rod stays
+
+26
+00:00:31,167 --> 00:00:32,200
+the same length.
+
+27
+00:00:32,500 --> 00:00:33,800
+One old penny makes
+
+28
+00:00:33,800 --> 00:00:35,100
+the clock gain about
+
+29
+00:00:35,100 --> 00:00:36,367
+two fifths of a
+
+30
+00:00:36,367 --> 00:00:37,667
+second over an entire
+
+31
+00:00:37,667 --> 00:00:38,000
+day.
+
+32
+00:00:38,300 --> 00:00:39,600
+That change is too
+
+33
+00:00:39,600 --> 00:00:40,900
+small to spot in
+
+34
+00:00:40,900 --> 00:00:41,867
+a single swing.
+
+35
+00:00:41,867 --> 00:00:43,167
+But thousands of swings
+
+36
+00:00:43,167 --> 00:00:44,467
+turn it into a
+
+37
+00:00:44,467 --> 00:00:45,100
+useful correction.
+
+38
+00:00:45,400 --> 00:00:46,733
+The keeper checks the
+
+39
+00:00:46,733 --> 00:00:48,100
+clock, then adds or
+
+40
+00:00:48,100 --> 00:00:49,433
+removes coins to adjust
+
+41
+00:00:49,433 --> 00:00:50,100
+its rate.
+
+42
+00:00:50,400 --> 00:00:52,100
+Five tonnes of clockwork,
+
+43
+00:00:52,100 --> 00:00:53,367
+fine-tuned with pocket
+
+44
+00:00:53,367 --> 00:00:53,800
+change.
+
